@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "title": "Projet Booki",
+    "description": "Le projet Booki consiste à développer l’interface d’un site de réservation de logements et d’activités. Il s'agit de créer une page web statique en utilisant HTML et CSS pour structurer et styliser le contenu. Ce projet se concentre sur les compétences en intégration web et la maîtrise des bases du responsive design, afin d’assurer une bonne expérience utilisateur sur tous les types d’appareils.",
+    "thumbnail": "projects/booki.webp",
+    "deployed": "",
+    "github": "https://github.com/adminnono/Projet-N-2-Booki-",
+    "date": "Avril 2024"
+  },
+  {  
+    "id": "2",
+    "title": "Projet Sophie Bluel",
+    "description": "Le projet Sophie Bluel implique la création d’un site pour une photographe professionnelle, en se basant sur une maquette préétablie. Les compétences clés incluent la manipulation de JavaScript pour intégrer des fonctionnalités interactives (comme une galerie d'images) et l’amélioration de l’expérience utilisateur. L'accent est mis sur la gestion des événements et l'optimisation de la performance.",
+    "thumbnail": "projects/sophie bluel.webp",
+    "github": "https://github.com/adminnono/Sophie-Bluel-Arnaud-Dujardin",
+    "deployed": "",
+    "date": "Mai & Juin 2024"
+  },
+  {
+    "id": "3",
+    "title": "Projet Nina Carducci",
+    "description": "Le projet Nina Carducci consiste à développer un site de présentation pour une architecte d'intérieur, avec une attention particulière portée à la création dynamique de contenu et à l'expérience utilisateur. Le projet demande des compétences en JavaScript, avec un focus sur la manipulation du DOM et la mise en œuvre d'interactions. Ce projet permet également de travailler sur l’accessibilité et l’optimisation du SEO.",
+    "thumbnail": "projects/carducci.webp",
+    "github": "https://github.com/adminnono/Nina-Carducci",
+    "deployed": "",
+    "date": "Juillet 2024"
+  },
+  {
+    "id": "4",
+    "title": "Projet Kasa",
+    "description": "Le projet Kasa consiste à créer une application de location de logements, permettant aux utilisateurs de consulter des annonces, de réserver des séjours et de gérer leurs favoris. Ce projet exige des compétences en développement front-end avec React, facilitant la création d'une interface utilisateur dynamique et réactive. Les développeurs doivent également maîtriser JavaScript, CSS et l'intégration d'API pour récupérer et afficher les données des logements. L'accent est mis sur la gestion des états de l'application, la navigation, et la mise en place d'un système d'évaluation des logements par les utilisateurs, garantissant une expérience utilisateur fluide et agréable.",
+    "thumbnail": "projects/kasa.webp",
+    "github": "https://github.com/adminnono/Projet-Kasa-Arnaud-",
+    "deployed": "",
+    "date": "Août & Septembre 2024"
+  },
+  {
+    "id": "5",
+    "title": "Projet Mon vieux Grimoire",
+    "description": "Mon vieux Grimoire est un projet qui consiste à développer un système de gestion d'une bibliothèque en ligne, où les utilisateurs peuvent ajouter et consulter des livres. Ce projet met en avant des compétences en développement back-end avec l'utilisation de Node.js, Express et MongoDB pour gérer la base de données, les routes API, et l'authentification des utilisateurs. L’objectif est de renforcer la maîtrise des bases du développement full stack.",
+    "thumbnail": "projects/grimoire.webp",
+    "github": "https://github.com/adminnono/Mon-vieux-grimoire",
+    "deployed": "",
+    "date": "Octobre 2024"
+  },
+  {
+    "id": "6",
+    "title": "Yvon Mau Grands Crus",
+    "description": "J'ai conçu le site one-page WordPress Yvon Mau Grands Crus. Cette marque prestigieuse appartient maintenant au groupe espagnol Freixenet. Le site met en avant l’expertise de Yvon Mau dans les grands crus. Design élégant et descriptions détaillées. L’interface est fluide et reflète l’image haut de gamme de la marque.",
+    "thumbnail": "projects/Yvon Mau Grands Crus .png",
+    "github": "",
+    "deployed": "https://ymgc.fr/",
+    "date": "Juin 2024"
+  },
+  {
+    "id": "7",
+    "title": "Apex Soutien Scolaire",
+    "description": "J’ai conçu le site vitrine WordPress Apex Soutien Scolaire pour mon ancien professeur particulier de mathématiques. Ce site présente de manière claire les services de soutien scolaire offerts, avec des pages dédiées aux matières proposées : Mathématiques, Physique-Chimie, SVT, Aide aux devoirs et Matières littéraires. L’interface est épurée et professionnelle, permettant aux visiteurs de trouver facilement les informations sur les cours et les modalités d’accompagnement. Le site est optimisé pour offrir une navigation fluide, garantissant une bonne visibilité en ligne et un accès rapide aux services éducatifs d’Apex Soutien Scolaire.",
+    "thumbnail": "projects/Apex Soutien Scolaire Rouen.png",
+    "github": "",
+    "deployed": "https://apexrouen.fr/",
+    "date": "Mars & Mai 2024"
+  },
+  {
+    "id": "8",
+    "title": "Erasmus House",
+    "description": "J'ai refondu le site e-commerce Erasmus House, un espace de co-living pour étudiants Erasmus, qui propose 17 chambres au total : 12 dans une maison et 5 dans un appartement. Le site, conçu sous WordPress avec WooCommerce, permet de réserver facilement les chambres. L'interface est moderne et intuitive, adaptée aux étudiants internationaux, avec des descriptions détaillées et des photos immersives pour chaque espace. Le site est optimisé pour le mobile et le SEO, offrant une navigation fluide et une visibilité en ligne renforcée.",
+    "thumbnail": "projects/Erasmus House.png",
+    "github": "",
+    "deployed": "https://erasmushouse.eu/",
+    "date": "Août & Septembre 2024"
+  },
+  {
+    "id": "9",
+    "title": "La Plage Française",
+    "description": "J'ai créé un site e-commerce WordPress pour La Plage Française. Cette entreprise fabrique des raquettes de plage made in France. Le site est simple et épuré, avec une navigation intuitive. Les visiteurs peuvent découvrir les collections et acheter facilement via WooCommerce. Chaque produit est mis en valeur par des descriptions et des visuels de qualité. Le site est optimisé pour mobile et le SEO pour une visibilité maximale. L'expérience d'achat est fluide, accessible sur tous les supports.",
+    "thumbnail": "projects/La Plage Française.png",
+    "github": "",
+    "deployed": "https://laplagefrancaise.fr/",
+    "date": "Octobre 2024"
+  }
+]

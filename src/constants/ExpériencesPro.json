@@ -1,0 +1,34 @@
+[
+  {
+    "id": "3",
+    "title": "Licence de développement Web",
+    "company": "OpenClassrooms Paris",
+    "description": "Je suis en train de valider les derniers projets de cette formation avant de recevoir mon diplôme",
+    "timePeriod": "En cours de validation",
+    "img": "images/web.png"
+  },
+  {
+    "id": "4",
+    "title": "Licence de Management",
+    "company": "IAE Amiens",
+    "description": "J'ai obtenu ma Licence de Management",
+    "timePeriod": "Juillet 2022",
+    "img": "images/licence.png"
+  },
+  {
+    "id": "5",
+    "title": "DUT Techniques de Commercialisation",
+    "company": "Université de Caen",
+    "description": "J'ai obtenu mon DUT Techniques de Commercialisation",
+    "timePeriod": "Juillet 2021",
+    "img": "images/dut.png"
+  },
+  {
+    "id": "6",
+    "title": "Baccalauréat Scientifique",
+    "company": "Lycée Rey de Bois-Guillaume",
+    "description": "J'ai obtenu mon Bac Scientifique !",
+    "timePeriod": "Juillet 2019",
+    "img": "images/bac.png"
+  }
+]

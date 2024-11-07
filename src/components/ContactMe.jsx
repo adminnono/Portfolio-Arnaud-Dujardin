@@ -2,6 +2,7 @@ import React, { useState, useCallback } from "react";
 import emailjs from "@emailjs/browser";
 import { useSpring, animated } from "react-spring";
 import { toast } from "react-toastify";
+import './ContactMe.css';
 
 // Variables d'environnement pour EmailJS
 const serviceId = import.meta.env.VITE_SERVICE; // Service ID
@@ -80,8 +81,8 @@ export default function ContactMe() {
           Contactez-Moi
         </h1>
         {success ? (
-          <div>
-            <img src="/thankyou-toast.jpg" alt="Success" className="rounded-3xl" />
+          <div id="centerImage">
+            <img src="../public/images/MessageEnvoye.png" alt="Success" className="rounded-3xl" />
           </div>
         ) : (
           <form onSubmit={handleSubmit}>

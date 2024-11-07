@@ -55,11 +55,11 @@
   },
   {
     "id": "7",
-    "title": "Apex Soutien Scolaire",
-    "description": "J’ai conçu le site vitrine WordPress Apex Soutien Scolaire pour mon ancien professeur particulier de mathématiques. Ce site présente de manière claire les services de soutien scolaire offerts, avec des pages dédiées aux matières proposées : Mathématiques, Physique-Chimie, SVT, Aide aux devoirs et Matières littéraires. L’interface est épurée et professionnelle, permettant aux visiteurs de trouver facilement les informations sur les cours et les modalités d’accompagnement. Le site est optimisé pour offrir une navigation fluide, garantissant une bonne visibilité en ligne et un accès rapide aux services éducatifs d’Apex Soutien Scolaire.",
-    "thumbnail": "projects/Apex Soutien Scolaire Rouen.png",
+    "title": "Lepy Association",
+    "description": "J’ai refondu le site vitrine WordPress du Co-Working associatif de Saint-Symphorien. Le site est optimisé pour offrir une navigation fluide et offre un accès rapide pour réserver des créneaux pour travailler sur place",
+    "thumbnail": "projects/lepy.png",
     "github": "",
-    "deployed": "https://apexrouen.fr/",
+    "deployed": "https://lepy-asso.fr/",
     "date": "Mars & Mai 2024"
   },
   {

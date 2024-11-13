@@ -1,16 +1,34 @@
 [
   {
     "id": "1",
-    "title": "Projet Booki",
+    "title": "Gaming Campus",
+    "description": "Dans le cadre du projet Gaming Campus, j'ai créé une page web responsive en HTML et CSS en suivant une maquette prédéfinie. J'ai utilisé Flexbox et Grid pour organiser le contenu de façon esthétique et adaptée aux différents écrans. Ce projet m'a permis d'apprendre les bases du HTML/CSS et les principes du design responsive.",
+    "thumbnail": "projects/campus.png",
+    "deployed": "",
+    "github": "https://github.com/adminnono/Gaming-Campus",
+    "date": "Décembre 2023"
+  },
+  {
+    "id": "2",
+    "title": "Booki",
     "description": "Le projet Booki consiste à développer l’interface d’un site de réservation de logements et d’activités. Il s'agit de créer une page web statique en utilisant HTML et CSS pour structurer et styliser le contenu. Ce projet se concentre sur les compétences en intégration web et la maîtrise des bases du responsive design, afin d’assurer une bonne expérience utilisateur sur tous les types d’appareils.",
     "thumbnail": "projects/booki.webp",
     "deployed": "",
     "github": "https://github.com/adminnono/Projet-N-2-Booki-",
     "date": "Avril 2024"
   },
+  {
+    "id": "8",
+    "title": "VS-SYS.FR",
+    "description": "Dans le cadre du projet VS-SYS.FR, j'ai créé une interface avec trois cartes sécurisées par un mot de passe crypté en base64, en utilisant HTML, CSS et JavaScript. J'ai intégré un système de tentatives limitées à 3 essais : après cela, l’accès se bloque. J'ai également ajouté des effets interactifs sur la souris (mouseEffect) et d'autres fonctionnalités, ce qui m'a permis d'approfondir mes compétences en front-end et en sécurité de base.",
+    "thumbnail": "projects/v.png",
+    "github": "",
+    "deployed": "https://vs-sys.fr/",
+    "date": "Janvier 2024"
+  },
   {  
-    "id": "2",
-    "title": "Projet Sophie Bluel",
+    "id": "3",
+    "title": "Sophie Bluel",
     "description": "Le projet Sophie Bluel implique la création d’un site pour une photographe professionnelle, en se basant sur une maquette préétablie. Les compétences clés incluent la manipulation de JavaScript pour intégrer des fonctionnalités interactives (comme une galerie d'images) et l’amélioration de l’expérience utilisateur. L'accent est mis sur la gestion des événements et l'optimisation de la performance.",
     "thumbnail": "projects/sophie bluel.webp",
     "github": "https://github.com/adminnono/Sophie-Bluel-Arnaud-Dujardin",
@@ -18,8 +36,8 @@
     "date": "Mai & Juin 2024"
   },
   {
-    "id": "3",
-    "title": "Projet Nina Carducci",
+    "id": "4",
+    "title": "Nina Carducci",
     "description": "Le projet Nina Carducci consiste à développer un site de présentation pour une architecte d'intérieur, avec une attention particulière portée à la création dynamique de contenu et à l'expérience utilisateur. Le projet demande des compétences en JavaScript, avec un focus sur la manipulation du DOM et la mise en œuvre d'interactions. Ce projet permet également de travailler sur l’accessibilité et l’optimisation du SEO.",
     "thumbnail": "projects/carducci.webp",
     "github": "https://github.com/adminnono/Nina-Carducci",
@@ -27,17 +45,17 @@
     "date": "Juillet 2024"
   },
   {
-    "id": "4",
-    "title": "Projet Kasa",
+    "id": "6",
+    "title": "Kasa",
     "description": "Le projet Kasa consiste à créer une application de location de logements, permettant aux utilisateurs de consulter des annonces, de réserver des séjours et de gérer leurs favoris. Ce projet exige des compétences en développement front-end avec React, facilitant la création d'une interface utilisateur dynamique et réactive. Les développeurs doivent également maîtriser JavaScript, CSS et l'intégration d'API pour récupérer et afficher les données des logements. L'accent est mis sur la gestion des états de l'application, la navigation, et la mise en place d'un système d'évaluation des logements par les utilisateurs, garantissant une expérience utilisateur fluide et agréable.",
-    "thumbnail": "projects/kasa.webp",
+    "thumbnail": "projects/kasa.png",
     "github": "https://github.com/adminnono/Projet-Kasa-Arnaud-",
-    "deployed": "",
+    "deployed": "https://projet-kasa-arnaud.vercel.app/",
     "date": "Août & Septembre 2024"
   },
   {
-    "id": "5",
-    "title": "Projet Mon vieux Grimoire",
+    "id": "7",
+    "title": "Mon vieux Grimoire",
     "description": "Mon vieux Grimoire est un projet qui consiste à développer un système de gestion d'une bibliothèque en ligne, où les utilisateurs peuvent ajouter et consulter des livres. Ce projet met en avant des compétences en développement back-end avec l'utilisation de Node.js, Express et MongoDB pour gérer la base de données, les routes API, et l'authentification des utilisateurs. L’objectif est de renforcer la maîtrise des bases du développement full stack.",
     "thumbnail": "projects/grimoire.webp",
     "github": "https://github.com/adminnono/Mon-vieux-grimoire",
@@ -45,17 +63,17 @@
     "date": "Octobre 2024"
   },
   {
-    "id": "6",
+    "id": "9",
     "title": "Yvon Mau Grands Crus",
     "description": "J'ai conçu le site one-page WordPress Yvon Mau Grands Crus. Cette marque prestigieuse appartient maintenant au groupe espagnol Freixenet. Le site met en avant l’expertise de Yvon Mau dans les grands crus. Design élégant et descriptions détaillées. L’interface est fluide et reflète l’image haut de gamme de la marque.",
-    "thumbnail": "projects/Yvon Mau Grands Crus .png",
+    "thumbnail": "projects/ymgc.png",
     "github": "",
     "deployed": "https://ymgc.fr/",
     "date": "Juin 2024"
   },
   {
-    "id": "7",
-    "title": "Lepy Association",
+    "id": "10",
+    "title": "L'EPY Association",
     "description": "J’ai refondu le site vitrine WordPress du Co-Working associatif de Saint-Symphorien. Le site est optimisé pour offrir une navigation fluide et offre un accès rapide pour réserver des créneaux pour travailler sur place",
     "thumbnail": "projects/lepy.png",
     "github": "",
@@ -63,21 +81,30 @@
     "date": "Mars & Mai 2024"
   },
   {
-    "id": "8",
+    "id": "11",
     "title": "Erasmus House",
     "description": "J'ai refondu le site e-commerce Erasmus House, un espace de co-living pour étudiants Erasmus, qui propose 17 chambres au total : 12 dans une maison et 5 dans un appartement. Le site, conçu sous WordPress avec WooCommerce, permet de réserver facilement les chambres. L'interface est moderne et intuitive, adaptée aux étudiants internationaux, avec des descriptions détaillées et des photos immersives pour chaque espace. Le site est optimisé pour le mobile et le SEO, offrant une navigation fluide et une visibilité en ligne renforcée.",
-    "thumbnail": "projects/Erasmus House.png",
+    "thumbnail": "projects/eh.png",
     "github": "",
     "deployed": "https://erasmushouse.eu/",
     "date": "Août & Septembre 2024"
   },
   {
-    "id": "9",
+    "id": "12",
     "title": "La Plage Française",
     "description": "J'ai créé un site e-commerce WordPress pour La Plage Française. Cette entreprise fabrique des raquettes de plage made in France. Le site est simple et épuré, avec une navigation intuitive. Les visiteurs peuvent découvrir les collections et acheter facilement via WooCommerce. Chaque produit est mis en valeur par des descriptions et des visuels de qualité. Le site est optimisé pour mobile et le SEO pour une visibilité maximale. L'expérience d'achat est fluide, accessible sur tous les supports.",
-    "thumbnail": "projects/La Plage Française.png",
+    "thumbnail": "projects/plage.png",
     "github": "",
     "deployed": "https://laplagefrancaise.fr/",
     "date": "Octobre 2024"
+  },
+  {
+    "id": "13",
+    "title": "Apex Soutien Scolaire",
+    "description": "J'ai créé un site e-commerce WordPress pour La Plage Française. Cette entreprise fabrique des raquettes de plage made in France. Le site est simple et épuré, avec une navigation intuitive. Les visiteurs peuvent découvrir les collections et acheter facilement via WooCommerce. Chaque produit est mis en valeur par des descriptions et des visuels de qualité. Le site est optimisé pour mobile et le SEO pour une visibilité maximale. L'expérience d'achat est fluide, accessible sur tous les supports.",
+    "thumbnail": "projects/Apex.png",
+    "github": "",
+    "deployed": "https://apexrouen.fr/",
+    "date": "Novembre 2024"
   }
 ]

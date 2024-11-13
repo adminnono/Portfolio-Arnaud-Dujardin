@@ -11,7 +11,7 @@ import {
 } from "react-icons/si";
 import { DiGithubBadge } from "react-icons/di";
 import { SiWordpress } from 'react-icons/si'; 
-import { SiSass } from 'react-icons/si'; 
+import { SiPhp } from 'react-icons/si'; // Import de l'icône PHP
 
 
 const skills = [
@@ -19,7 +19,7 @@ const skills = [
   { id: "css", Component: FaCss3Alt },
   { id: "javascript", Component: SiJavascript },
   { id: "react", Component: FaReact },
-  { id: "sass", Component: SiSass },
+  { id: "php", Component: SiPhp }, // Ajout de PHP
   { id: "vscode", Component: SiVisualstudiocode },
   { id: "github", Component: DiGithubBadge },
   { id: "wordpress", Component: SiWordpress }, 

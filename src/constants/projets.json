@@ -4,7 +4,7 @@
     "title": "Gaming Campus",
     "description": "Dans le cadre du projet Gaming Campus, j'ai créé une page web responsive en HTML et CSS en suivant une maquette prédéfinie. J'ai utilisé Flexbox et Grid pour organiser le contenu de façon esthétique et adaptée aux différents écrans. Ce projet m'a permis d'apprendre les bases du HTML/CSS et les principes du design responsive.",
     "thumbnail": "projects/campus.png",
-    "deployed": "",
+    "deployed": "https://adminnono.github.io/gaming-campus/",
     "github": "https://github.com/adminnono/Gaming-Campus",
     "date": "Décembre 2023"
   },
@@ -13,7 +13,7 @@
     "title": "Booki",
     "description": "Le projet Booki consiste à développer l’interface d’un site de réservation de logements et d’activités. Il s'agit de créer une page web statique en utilisant HTML et CSS pour structurer et styliser le contenu. Ce projet se concentre sur les compétences en intégration web et la maîtrise des bases du responsive design, afin d’assurer une bonne expérience utilisateur sur tous les types d’appareils.",
     "thumbnail": "projects/booki.webp",
-    "deployed": "",
+    "deployed": "https://adminnono.github.io/booki/",
     "github": "https://github.com/adminnono/Projet-N-2-Booki-",
     "date": "Avril 2024"
   },
@@ -32,7 +32,7 @@
     "description": "Le projet Sophie Bluel implique la création d’un site pour une photographe professionnelle, en se basant sur une maquette préétablie. Les compétences clés incluent la manipulation de JavaScript pour intégrer des fonctionnalités interactives (comme une galerie d'images) et l’amélioration de l’expérience utilisateur. L'accent est mis sur la gestion des événements et l'optimisation de la performance.",
     "thumbnail": "projects/sophie bluel.webp",
     "github": "https://github.com/adminnono/Sophie-Bluel-Arnaud-Dujardin",
-    "deployed": "",
+    "deployed": "https://adminnono.github.io/sophie-bluel/",
     "date": "Mai & Juin 2024"
   },
   {
@@ -41,7 +41,7 @@
     "description": "Le projet Nina Carducci consiste à développer un site de présentation pour une architecte d'intérieur, avec une attention particulière portée à la création dynamique de contenu et à l'expérience utilisateur. Le projet demande des compétences en JavaScript, avec un focus sur la manipulation du DOM et la mise en œuvre d'interactions. Ce projet permet également de travailler sur l’accessibilité et l’optimisation du SEO.",
     "thumbnail": "projects/carducci.webp",
     "github": "https://github.com/adminnono/Nina-Carducci",
-    "deployed": "",
+    "deployed": "https://adminnono.github.io/nina-carducci/",
     "date": "Juillet 2024"
   },
   {

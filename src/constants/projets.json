@@ -28,11 +28,11 @@
   },
   {
     "id": "8",
-    "title": "Sroll-Event",
+    "title": "Sroll-Events",
     "description": "Dans le cadre du projet VS-SYS.FR, j'ai créé une interface avec trois cartes sécurisées par un mot de passe crypté en base64, en utilisant HTML, CSS et JavaScript. J'ai intégré un système de tentatives limitées à 3 essais : après cela, l’accès se bloque. J'ai également ajouté des effets interactifs sur la souris (mouseEffect) et d'autres fonctionnalités, ce qui m'a permis d'approfondir mes compétences en front-end et en sécurité de base.",
     "thumbnail": "projects/scroll.png",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/scroll-event",
-    "deployed": "https://adminnono.github.io/scroll-event/",
+    "deployed": "https://adminnono.github.io/scroll-events/",
     "date": "Janvier 2024"
   },
   {

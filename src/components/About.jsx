@@ -57,7 +57,7 @@ const About = () => {
           Arnaud Dujardin
         </h1>
         <p className="text-lg text-darkDesert mb-4 text-center px-8">
-        Je suis en formation certifiante en développement web. Je souhaite intégrer, après cette formation, la spécialisation WordPress proposée par OpenClassrooms en alternance sur 18 mois. J'ai un Bac Scientifique, un DUT en Techniques de Commercialisation et une Licence en Management. Ces expériences m'ont permis de comprendre les besoins clients et de développer des compétences en gestion de projet. Je suis passionné par la création de sites optimisés sous WordPress. Je parle anglais et je possède le permis B. Je recherche activement une entreprise pour débuter cette alternance.
+        Je suis en formation diplômante en développement web qui se termine mi-décembre. Je souhaite intégrer, après cette formation, une entreprise spécialisée dans la conception de site WordPress. J'ai une expertise sur le Thème Divi et je serais ravi d'approfondir mes connaissances sur Elementor ou d'autres outils Wordpress très populaires. J'ai un Bac Scientifique, un DUT en Techniques de Commercialisation et une Licence en Management. Ces expériences m'ont permis de comprendre les besoins clients et de développer des compétences en gestion de projet. Je suis passionné par la création de sites optimisés sous WordPress. Je parle anglais et je possède le permis B. Je recherche activement une entreprise pour débuter cette alternance.
         </p>
         <p className="text-lg text-darkDesert mb-4 text-center px-8">
         

@@ -117,6 +117,16 @@ export default function ContactMe() {
             {error && <p className="mt-4 text-red-500">{error}</p>}
           </form>
         )}
+        {/* Ajout des informations personnelles */}
+        <div className="mt-6 text-center">
+          <p className="text-darkDesert text-lg">Vous pouvez aussi me contacter directement :</p>
+          <p className="text-darkDesert text-lg font-bold">
+          📧 Email : <a href="mailto:arnaud.dujardin76@gmail.com" className="text-goldDesert hover:underline">arnaud.dujardin76@gmail.com</a>
+          </p>
+          <p className="text-darkDesert text-lg font-bold">
+          📞 Téléphone : <a href="tel:+33781975331" className="text-goldDesert hover:underline">07.81.97.53.31</a>
+          </p>
+        </div>
       </div>
     </animated.section>
   );

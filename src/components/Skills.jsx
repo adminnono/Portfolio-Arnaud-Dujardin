@@ -1,6 +1,6 @@
 import { useTrail, animated } from "react-spring";
-import { FaHtml5, FaCss3Alt, FaReact, FaNodeJs } from "react-icons/fa"; // Icônes FontAwesome
-import { SiJavascript, SiVisualstudiocode, SiWordpress } from "react-icons/si"; // Icônes Simple Icons
+import { FaHtml5, FaCss3Alt, FaReact } from "react-icons/fa"; // Icônes FontAwesome
+import { SiJavascript, SiVisualstudiocode, SiWordpress, SiPhp } from "react-icons/si"; // Icônes Simple Icons
 import { DiGithubBadge } from "react-icons/di"; // Icône GitHub Badge
 
 // Liste des compétences avec leurs icônes
@@ -9,10 +9,10 @@ const skills = [
   { id: "css", Component: FaCss3Alt },
   { id: "javascript", Component: SiJavascript },
   { id: "react", Component: FaReact },
-  { id: "nodejs", Component: FaNodeJs }, // Ajout de Node.js
   { id: "vscode", Component: SiVisualstudiocode },
+  { id: "php", Component: SiPhp, color: "#8993BE" }, // Icône PHP ajoutée
   { id: "github", Component: DiGithubBadge },
-  { id: "wordpress", Component: SiWordpress }
+  { id: "wordpress", Component: SiWordpress },
 ];
 
 

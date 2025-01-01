@@ -84,7 +84,7 @@
     "id": "10",
     "title": "La Plage Française",
     "description": "J’ai créé un site e-commerce WordPress pour La Plage Française, fabricant de raquettes de plage made in France, en utilisant le thème Divi. Le site est simple et épuré, avec une navigation intuitive et la possibilité d'acheter facilement via WooCommerce. La difficulté principale a été d'optimiser l'expérience mobile et le SEO pour une visibilité maximale. Ce projet m’a permis de développer mes compétences en WordPress, WooCommerce, Divi, et optimisation SEO et mobile.",
-    "thumbnail": "projects/plage.png",
+    "thumbnail": "projects/lpfr.png",
     "github": "",
     "deployed": "https://laplagefrancaise.fr/",
     "date": "Octobre 2024"
@@ -93,7 +93,7 @@
     "id": "11",
     "title": "Apex Soutien Scolaire",
     "description": "J’ai développé un site web pour Apex Soutien Scolaire sous Divi, avec une intégration à Billet Web permettant aux élèves de réserver des stages de vacances ou d’autres prestations. La difficulté principale a été de gérer l'intégration des réservations, ce que j’ai résolu en utilisant l'API de Billet Web. Ce projet m’a permis de développer mes compétences en WordPress, Divi",
-    "thumbnail": "projects/Apex.png",
+    "thumbnail": "projects/apex.png",
     "github": "",
     "deployed": "https://apexrouen.fr/",
     "date": "Novembre 2024"

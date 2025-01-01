@@ -87,16 +87,16 @@ export default function NavBar() {
                 A Propos
               </NavLink>
               <NavLink to="/projects" onClick={toggleOpen}>
-                Projets
+                Mes réalisations
               </NavLink>
               <NavLink to="/skills" onClick={toggleOpen}>
-                Compétences
+                Mes compétences
               </NavLink>
               <NavLink to="/experience" onClick={toggleOpen}>
-                Expériences
+                Mes expériences
               </NavLink>
               <NavLink to="/contact" onClick={toggleOpen}>
-                Contactez Moi
+                Me contacter
               </NavLink>
             </ul>
           </div>

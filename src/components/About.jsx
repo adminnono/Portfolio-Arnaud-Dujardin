@@ -46,7 +46,7 @@ const About = () => {
     >
       <animated.img
         style={{ ...springProps }}
-        src="images/profile.png"
+        src="images/profile.webp"
         alt="Sara"
         className="rounded-full w-64 h-64 border-4 border-darkDesert object-cover mb-8 mt-20"
         onMouseEnter={() => setScale(1.1)}

@@ -5,16 +5,15 @@ import { DiGithubBadge } from "react-icons/di"; // Icône GitHub Badge
 
 // Liste des compétences avec leurs icônes
 const skills = [
-  { id: "html", Component: FaHtml5 },
-  { id: "css", Component: FaCss3Alt },
-  { id: "javascript", Component: SiJavascript },
-  { id: "react", Component: FaReact },
-  { id: "vscode", Component: SiVisualstudiocode },
-  { id: "php", Component: SiPhp, color: "#8993BE" }, // Icône PHP ajoutée
-  { id: "github", Component: DiGithubBadge },
-  { id: "wordpress", Component: SiWordpress },
+  { id: "html", Component: FaHtml5, link: "../public/html&css.pdf"},
+  { id: "css", Component: FaCss3Alt, link: "../public/html&css.pdf"},
+  { id: "javascript", Component: SiJavascript, link: "../public/javascript.pdf" },
+  { id: "react", Component: FaReact, link: "../public/react.pdf" },
+  { id: "wordpress", Component: SiWordpress, link: "../public/Wordpress.pdf" },
+  { id: "php", Component: SiPhp, color: "#8993BE", link: "../public/Php.pdf" }, 
+  { id: "vscode", Component: SiVisualstudiocode, link: "../public/html&css.pdf" },
+  { id: "github", Component: DiGithubBadge, link: "../public/github.pdf" },
 ];
-
 
 export default function Skills() {
   const trail = useTrail(skills.length, {
@@ -31,14 +30,20 @@ export default function Skills() {
         <h2 className="text-4xl font-bold text-darkDesert mb-6">Compétences actuelles</h2>
         <div className="grid grid-cols-4 gap-4 my-4 justify-items-center">
           {trail.map((props, index) => {
-            const { Component } = skills[index];
+            const { Component, link } = skills[index];
             return (
               <animated.div
                 style={props}
                 className="text-5xl text-goldDesert transition-all duration-300 transform hover:scale-110 hover:text-darkDesert"
                 key={skills[index].id}
               >
-                <Component />
+                {link ? (
+                  <a href={link} target="_blank" rel="noopener noreferrer">
+                    <Component />
+                  </a>
+                ) : (
+                  <Component />
+                )}
               </animated.div>
             );
           })}

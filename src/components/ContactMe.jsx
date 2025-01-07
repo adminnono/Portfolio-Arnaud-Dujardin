@@ -82,7 +82,7 @@ export default function ContactMe() {
         </h1>
         {success ? (
           <div id="centerImage">
-            <img src="/public/images/envoye.webp" alt="" className="rounded-3xl" />
+            <img src="/envoye.webp" alt="" className="rounded-3xl" />
           </div>
         ) : (
           <form onSubmit={handleSubmit}>

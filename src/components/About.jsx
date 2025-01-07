@@ -57,7 +57,7 @@ const About = () => {
           Arnaud Dujardin
         </h1>
         <p className="text-lg text-darkDesert mb-4 text-center px-8">
-          Je suis diplômé en développement web par OpenClassrooms. Je souhaiterai intégrer une entreprise spécialisée dans la création de sites WordPress. J'ai une expertise sur le Thème Divi et souhaite développer mes connaissances. Je suis actuellement en train de me former sur PHP et My SQL pour pouvoir être au top ! J'ai un Bac Scientifique, un DUT en Techniques de Commercialisation et une Licence en Management. Ces expériences m'ont permis de comprendre les besoins clients et de développer des compétences en gestion de projet. Je suis passionné par la création de sites optimisés sous WordPress. Je parle anglais et je possède le permis B.
+        Je suis diplômé d’un DUT en développement web délivré par OpenClassrooms. Je souhaite intégrer une entreprise spécialisée dans la création de sites optimisés sous WordPress. J'ai une expertise sur le Thème Divi et je serais ravi de développer mes connaissances sur d'autres outils Wordpress. Je suis actuellement en train de me former sur PHP et MYSQL. Ces expériences m'ont permis de comprendre les besoins clients et de développer des compétences en gestion de projet. 
         </p>
         <p className="text-lg text-darkDesert mb-4 text-center px-8">
 

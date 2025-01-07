@@ -78,18 +78,18 @@ export default function ContactMe() {
     >
       <div className="w-full max-w-md">
         <h1 className="text-4xl font-bold text-darkDesert mb-6 text-center">
-          Contactez-Moi
+          Me contacter
         </h1>
         {success ? (
           <div id="centerImage">
-            <img src="/public/images/envoye.webp" alt="Success" className="rounded-3xl" />
+            <img src="/public/images/envoye.webp" alt="" className="rounded-3xl" />
           </div>
         ) : (
           <form onSubmit={handleSubmit}>
             <InputField
               type="text"
               name="name"
-              placeholder="Nom"
+              placeholder="Nom Prénom"
               value={name}
               onChange={handleNameChange}
             />
@@ -102,7 +102,7 @@ export default function ContactMe() {
             />
             <textarea
               name="message"
-              placeholder="Message"
+              placeholder="Votre message"
               className="border border-darkDesert bg-lightDesert text-darkDesert mb-4 p-3 rounded w-full h-24 shadow-md focus:border-goldDesert transition-colors duration-200"
               value={message}
               onChange={handleMessageChange}

@@ -93,7 +93,7 @@ export default function NavBar() {
                 Mes compétences
               </NavLink>
               <NavLink to="/experience" onClick={toggleOpen}>
-                Mes expériences
+              Mon parcours
               </NavLink>
               <NavLink to="/contact" onClick={toggleOpen}>
                 Me contacter

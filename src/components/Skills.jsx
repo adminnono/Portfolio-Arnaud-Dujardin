@@ -5,15 +5,16 @@ import { DiGithubBadge } from "react-icons/di"; // Icône GitHub Badge
 
 // Liste des compétences avec leurs icônes
 const skills = [
-  { id: "html", Component: FaHtml5, link: "../public/html&css.pdf"},
-  { id: "css", Component: FaCss3Alt, link: "../public/html&css.pdf"},
-  { id: "javascript", Component: SiJavascript, link: "../public/javascript.pdf" },
-  { id: "react", Component: FaReact, link: "../public/react.pdf" },
-  { id: "wordpress", Component: SiWordpress, link: "../public/Wordpress.pdf" },
-  { id: "php", Component: SiPhp, color: "#8993BE", link: "../public/Php.pdf" }, 
-  { id: "vscode", Component: SiVisualstudiocode, link: "../public/html&css.pdf" },
-  { id: "github", Component: DiGithubBadge, link: "../public/github.pdf" },
+  { id: "html", Component: FaHtml5, link: "/html&css.pdf" },
+  { id: "css", Component: FaCss3Alt, link: "/html&css.pdf" },
+  { id: "javascript", Component: SiJavascript, link: "/javascript.pdf" },
+  { id: "react", Component: FaReact, link: "/react.pdf" },
+  { id: "wordpress", Component: SiWordpress, link: "/Wordpress.pdf" },
+  { id: "php", Component: SiPhp, color: "#8993BE", link: "/Php.pdf" },
+  { id: "vscode", Component: SiVisualstudiocode, link: "/html&css.pdf" },
+  { id: "github", Component: DiGithubBadge, link: "/github.pdf" },
 ];
+
 
 export default function Skills() {
   const trail = useTrail(skills.length, {

@@ -5,7 +5,7 @@
     "company": "Marmotel Saint Geniez d'Olt",
     "description": "J'ai animé un camping de 550 vacanciers pendant plus de 2 mois",
     "timePeriod": "Juillet & Août 2021",
-    "img": "images/camping.png"
+    "img": "images/camping.webp"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "company": "Nantes",
     "description": "A 15 ans, je remporte les championnats de France par classement dans ma catégorie",
     "timePeriod": "Juin 2015",
-    "img": "images/ping.png"
+    "img": "images/ping.webp"
   }
   
 ]

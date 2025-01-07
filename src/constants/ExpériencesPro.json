@@ -5,7 +5,7 @@
     "company": "OpenClassrooms Paris",
     "description": "Je suis diplomé d'une licence en développement web dont les langages acquis sont les suivants : HTML, CSS, Javascript, React, Github, Visual Studio Code et Notion",
     "timePeriod": "Décembre 2024",
-    "img": "images/web.png"
+    "img": "images/web.webp"
   },
   {
     "id": "4",
@@ -13,7 +13,7 @@
     "company": "IAE Amiens",
     "description": "J'ai obtenu ma Licence de Management",
     "timePeriod": "Juillet 2022",
-    "img": "images/licence.png"
+    "img": "images/licence.webp"
   },
   {
     "id": "5",
@@ -21,7 +21,7 @@
     "company": "Université de Caen",
     "description": "J'ai obtenu mon DUT Techniques de Commercialisation",
     "timePeriod": "Juillet 2021",
-    "img": "images/dut.png"
+    "img": "images/dut.webp"
   },
   {
     "id": "6",
@@ -29,6 +29,6 @@
     "company": "Lycée Rey de Bois-Guillaume",
     "description": "J'ai obtenu mon Bac Scientifique !",
     "timePeriod": "Juillet 2019",
-    "img": "images/bac.png"
+    "img": "images/bac.webp"
   }
 ]

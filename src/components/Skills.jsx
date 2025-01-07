@@ -28,7 +28,7 @@ export default function Skills() {
       className="bg-lightDesert rounded-lg shadow-md flex items-center justify-center min-h-screen"
     >
       <div className="text-center max-w-2xl w-full mx-auto">
-        <h2 className="text-4xl font-bold text-darkDesert mb-6">Compétences actuelles</h2>
+        <h2 className="text-4xl font-bold text-darkDesert mb-6">Mes Compétences</h2>
         <div className="grid grid-cols-4 gap-4 my-4 justify-items-center">
           {trail.map((props, index) => {
             const { Component, link } = skills[index];

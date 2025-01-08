@@ -20,7 +20,7 @@
   {
     "id": "3",
     "title": "Resto",
-    "description": "Le projet Booki consistait à créer une page de réservation de logements et d’activités avec HTML et CSS, en mettant l'accent sur le responsive design. La principale difficulté a été d’adapter le design aux différentes tailles d’écran, ce que j’ai résolu en utilisant des media queries. Ce projet m’a permis de renforcer mes compétences en HTML, CSS et responsive design.",
+    "description": "Le projet Resto consistait à intégrer une maquette de restaurant avec les langages HTML et Sass, un framework de CSS. Ce projet m'a permis de renforcer mes connaissances des langages HTML et css. Je suis motivé de développer mes connaissances de jour en jour.",
     "thumbnail": "projects/html&css.webp",
     "deployed": "https://adminnono.github.io/resto/",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/resto",

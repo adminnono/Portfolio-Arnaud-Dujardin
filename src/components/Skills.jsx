@@ -11,7 +11,7 @@ const skills = [
   { id: "react", Component: FaReact, link: "/react.pdf" },
   { id: "wordpress", Component: SiWordpress, link: "/Wordpress.pdf" },
   { id: "php", Component: SiPhp, color: "#8993BE", link: "/Php.pdf" },
-  { id: "vscode", Component: SiVisualstudiocode, link: "/html&css.pdf" },
+  { id: "vscode", Component: SiVisualstudiocode, link: "/vsc.pdf" },
   { id: "github", Component: DiGithubBadge, link: "/github.pdf" },
 ];
 

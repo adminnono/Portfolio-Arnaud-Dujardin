@@ -29,9 +29,16 @@ export default function Home() {
         alt="Trumpet with tentacle logo"
       />
 
-      {/* Texte explicatif avec une taille plus grande */}
+      {/* Texte explicatif avec un lien pour accéder au CV */}
       <p className="text-darkDesert text-center text-2xl font-semibold mb-4">
-        Cliquez sur le <strong>bouton</strong> ci-dessous pour accéder à mon <strong>CV</strong>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href={RESUME_URL}
+          className="text-darkDesert hover:text-goldDesert transition-colors duration-300"
+        >
+          Voir mon <strong>CV</strong>
+        </a>
       </p>
 
       {/* Boutons centrés */}

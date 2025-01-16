@@ -31,7 +31,7 @@ export default function Home() {
 
       {/* Texte explicatif avec une taille plus grande */}
       <p className="text-darkDesert text-center text-2xl font-semibold mb-4">
-        Cliquez sur le bouton <strong>Texte</strong> ci-dessous pour accéder à mon <strong>CV.</strong>
+        Cliquez sur le <strong>bouton</strong> ci-dessous pour accéder à mon <strong>CV</strong>
       </p>
 
       {/* Boutons centrés */}
@@ -40,24 +40,6 @@ export default function Home() {
         className="flex flex-col items-center justify-center mt-2"
       >
         <div className="flex space-x-6">
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href={GITHUB_URL}
-            className="text-darkDesert hover:text-goldDesert transition-colors duration-300"
-          >
-            <FaGithub className="w-10 h-10" />
-            <span className="sr-only">Compte GitHub</span>
-          </a>
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href={LINKEDIN_URL}
-            className="text-darkDesert hover:text-goldDesert transition-colors duration-300"
-          >
-            <FaLinkedin className="w-10 h-10" />
-            <span className="sr-only">Compte Linkedin</span>
-          </a>
           <a
             target="_blank"
             rel="noopener noreferrer"

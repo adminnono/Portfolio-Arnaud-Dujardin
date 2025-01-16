@@ -1,17 +1,17 @@
 [
   {
     "id": "1",
-    "title": "Animateur saisonnier en Camping",
+    "title": "Animateur pricipal d'un camping de 500 personnes",
     "company": "Marmotel Saint Geniez d'Olt",
-    "description": "J'ai animé un camping de 550 vacanciers pendant plus de 2 mois",
-    "timePeriod": "Juillet & Août 2021",
+    "description": "J'ai animé un camping de 500 vacanciers pendant plus de 2 mois en 2020 et 2021",
+    "timePeriod": "Juillet & Août 2020 et 2021",
     "img": "images/camping.webp"
   },
   {
     "id": "2",
-    "title": "Champion de France de tennis de table",
+    "title": "Champion de France de tennis de table par classement H10",
     "company": "Nantes",
-    "description": "A 15 ans, je remporte les championnats de France par classement dans ma catégorie",
+    "description": "A 14 ans, je remporte les championnats de France par classement dans la catégorie 1099 points ",
     "timePeriod": "Juin 2015",
     "img": "images/ping.webp"
   }

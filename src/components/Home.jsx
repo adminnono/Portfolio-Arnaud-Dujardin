@@ -1,16 +1,8 @@
 import React from "react";
 import { useSpring, animated } from "react-spring";
-import {
-  FaGithub,
-  FaLinkedin,
-  FaFileAlt,
-} from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaFileAlt } from "react-icons/fa";
 import landingImg from "/dev-icon.svg";
-import {
-  GITHUB_URL,
-  LINKEDIN_URL,
-  RESUME_URL,
-} from "../constants";
+import { GITHUB_URL, LINKEDIN_URL, RESUME_URL } from "../constants";
 
 export default function Home() {
   const logoSpring = useSpring({
@@ -37,8 +29,17 @@ export default function Home() {
         alt="Trumpet with tentacle logo"
       />
 
-      <animated.div style={iconSpring} className="flex flex-col mt-2 space-x-6">
-        <div className="flex mt-2 space-x-6">
+      {/* Texte explicatif avec une taille plus grande */}
+      <p className="text-darkDesert text-center text-2xl font-semibold mb-4">
+        Cliquez sur le bouton <strong>Texte</strong> ci-dessous pour accéder à mon <strong>CV.</strong>
+      </p>
+
+      {/* Boutons centrés */}
+      <animated.div
+        style={iconSpring}
+        className="flex flex-col items-center justify-center mt-2"
+      >
+        <div className="flex space-x-6">
           <a
             target="_blank"
             rel="noopener noreferrer"
@@ -57,7 +58,6 @@ export default function Home() {
             <FaLinkedin className="w-10 h-10" />
             <span className="sr-only">Compte Linkedin</span>
           </a>
-          
           <a
             target="_blank"
             rel="noopener noreferrer"
@@ -67,7 +67,6 @@ export default function Home() {
             <FaFileAlt className="w-10 h-10" />
             <span className="sr-only">CV</span>
           </a>
-          
         </div>
       </animated.div>
     </div>

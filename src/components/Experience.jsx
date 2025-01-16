@@ -68,7 +68,7 @@ const Experience = () => {
       className="bg-lightDesert p-8 rounded-lg shadow-lg w-full mx-auto mt-12"
     >
       <h2 className="text-4xl font-bold text-darkDesert mb-4 text-center">
-      Mon parcours
+      Mon niveau d'études
       </h2>
       <VerticalTimeline>
         {jobExperiences.map((experience, index) => (

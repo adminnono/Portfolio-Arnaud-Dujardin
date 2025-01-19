@@ -28,15 +28,6 @@
   },
   {
     "id": "4",
-    "title": "Sophie Bluel",
-    "description": "Le projet Sophie Bluel consistait à créer un site pour une photographe professionnelle à partir d'une maquette. J'ai utilisé JavaScript pour ajouter des fonctionnalités interactives, telles qu'une galerie d'images, en me concentrant sur la gestion des événements et l'optimisation de la performance pour améliorer l'expérience utilisateur.",
-    "thumbnail": "projects/javascript.webp",
-    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/sophie-bluel",
-    "deployed": "https://adminnono.github.io/sophie-bluel/",
-    "date": "Mai & Juin 2024"
-  },
-  {
-    "id": "5",
     "title": "Nina Carducci",
     "description": "Le projet Nina Carducci consiste à travailler sur l’accessibilité et l’optimisation du SEO du site. Il n'y avait pas vraiment de difficultés pour ce projets. Grâce à ce projet, j'ai développé des compétences en SEO et en accessibilité avec des outils performants comme lighthouse ou encore Wave ",
     "thumbnail": "projects/seo.webp",
@@ -45,7 +36,7 @@
     "date": "Juillet 2024"
   },
   {
-    "id": "6",
+    "id": "5",
     "title": "Kasa",
     "description": "Le projet Kasa consistait à créer une application de location de logements, permettant aux utilisateurs de consulter des annonces et de gérer leurs favoris. La difficulté principale était de gérer les états de l’application et la navigation entre les pages, ce que j’ai résolu avec React. Ce projet m’a permis de développer des compétences en React, JavaScript, SCSS et en intégration d'API pour afficher les données.",
     "thumbnail": "projects/kasa.webp",
@@ -54,16 +45,16 @@
     "date": "Août & Septembre 2024"
   },
   {
-    "id": "7",
+    "id": "6",
     "title": "Recettes de cuisine",
-    "description": "Le projet Kasa consistait à créer une application de location de logements, permettant aux utilisateurs de consulter des annonces et de gérer leurs favoris. La difficulté principale était de gérer les états de l’application et la navigation entre les pages, ce que j’ai résolu avec React. Ce projet m’a permis de développer des compétences en React, JavaScript, SCSS et en intégration d'API pour afficher les données.",
+    "description": "J'ai conçu le site web 'Recettes de cuisine', un projet développé en PHP avec une attention particulière portée à la sécurité et à la fluidité de l'expérience utilisateur. Le site inclut une page de connexion pour les utilisateurs et un formulaire sécurisé utilisant la méthode POST pour prévenir les failles XSS. La base de données, créée avec phpMyAdmin en SQL, est connectée au site via PHP. Ce projet m’a permis de renforcer mes compétences en PHP, gestion de bases de données SQL et sécurité web.",
     "thumbnail": "projects/phplogo.png",
     "github": "https://github.com/adminnono/Projet-Recettes-PHP",
     "deployed": "",
     "date": "Janvier 2025"
   },
   {
-    "id": "8",
+    "id": "7",
     "title": "Yvon Mau Grands Crus",
     "description": "J'ai conçu le site one-page WordPress pour Yvon Mau Grands Crus, une marque prestigieuse maintenant sous le groupe Freixenet. Le site met en avant l’expertise de la marque avec un design élégant et des descriptions détaillées. La difficulté principale a été de créer une interface fluide et haut de gamme sous Divi pour refléter l’image de la marque. Ce projet m’a permis de développer mes compétences en WordPress, Divi et design web.",
     "thumbnail": "projects/yvonmaugrandscrus.png",
@@ -72,7 +63,7 @@
     "date": "Juin 2024"
   },
   {
-    "id": "9",
+    "id": "8",
     "title": "L'EPY Association",
     "description": "J’ai refondu le site vitrine WordPress du Co-Working associatif de Saint-Symphorien en utilisant le thème Divi, pour offrir une navigation fluide et un accès rapide à la réservation de créneaux de travail. La difficulté principale a été d’optimiser l’ergonomie et la rapidité du site. Ce projet m’a permis de développer mes compétences en WordPress, Divi, UX/UI design, et optimisation de la performance web.",
     "thumbnail": "projects/lepy.png",
@@ -81,7 +72,7 @@
     "date": "Mars & Mai 2024"
   },
   {
-    "id": "10",
+    "id": "9",
     "title": "Erasmus House",
     "description": "J’ai refondu le site e-commerce Erasmus House, un espace de co-living pour étudiants, en utilisant WordPress avec WooCommerce et le thème Divi. Le site permet de réserver facilement les chambres, avec une interface moderne et intuitive, adaptée aux étudiants internationaux. La difficulté principale a été d'optimiser le site pour le mobile et le SEO, ce que j’ai résolu en intégrant des fonctionnalités adaptées. Ce projet m’a permis de développer mes compétences en WordPress, WooCommerce, Divi, et optimisation SEO et mobile.",
     "thumbnail": "projects/erasmushouse.png",
@@ -90,7 +81,7 @@
     "date": "Août & Septembre 2024"
   },
   {
-    "id": "11",
+    "id": "10",
     "title": "La Plage Française",
     "description": "J’ai créé un site e-commerce WordPress pour La Plage Française, fabricant de raquettes de plage made in France, en utilisant le thème Divi. Le site est simple et épuré, avec une navigation intuitive et la possibilité d'acheter facilement via WooCommerce. La difficulté principale a été d'optimiser l'expérience mobile et le SEO pour une visibilité maximale. Ce projet m’a permis de développer mes compétences en WordPress, WooCommerce, Divi, et optimisation SEO et mobile.",
     "thumbnail": "projects/laplagefrancaise.png",
@@ -99,12 +90,21 @@
     "date": "Octobre 2024"
   },
   {
-    "id": "12",
+    "id": "11",
     "title": "Apex Soutien Scolaire",
     "description": "J’ai développé un site web pour Apex Soutien Scolaire sous Divi, avec une intégration à Billet Web permettant aux élèves de réserver des stages de vacances ou d’autres prestations. La difficulté principale a été de gérer l'intégration des réservations, ce que j’ai résolu en utilisant l'API de Billet Web. Ce projet m’a permis de développer mes compétences en WordPress, Divi",
     "thumbnail": "projects/apex.png",
     "github": "",
     "deployed": "https://apexrouen.fr/",
     "date": "Novembre 2024"
+  },
+  {
+    "id": "12",
+    "title": "Vasty",
+    "description": "J'ai conçu 'Vasty', un site web dédié à l'immobilier haut de gamme à Rouen et ses alentours, développé avec WordPress et un thème enfant personnalisé. Le site propose une expérience utilisateur soignée, avec des filtres avancés permettant de rechercher facilement des biens d'exception selon des critères spécifiques. Chaque bien suit une structure dynamique, garantissant que toute modification de cette structure est automatiquement appliquée à l’ensemble des annonces. Ce projet m’a permis de développer mes compétences en WordPress, création de thèmes enfants et gestion de contenu dynamique, tout en mettant en valeur le prestige des biens immobiliers de la région.",
+    "thumbnail": "projects/vasty.png",
+    "github": "",
+    "deployed": "https://vasty.fr/",
+    "date": "Octobre 2024"
   }
 ]

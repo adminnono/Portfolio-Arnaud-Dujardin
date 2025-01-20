@@ -39,7 +39,7 @@
     "id": "5",
     "title": "Kasa",
     "description": "Le projet Kasa consistait à créer une application de location de logements, permettant aux utilisateurs de consulter des annonces et de gérer leurs favoris. La difficulté principale était de gérer les états de l’application et la navigation entre les pages, ce que j’ai résolu avec React. Ce projet m’a permis de développer des compétences en React, JavaScript, SCSS et en intégration d'API pour afficher les données.",
-    "thumbnail": "projects/kasa.png",
+    "thumbnail": "projects/Kasa.png",
     "github": "https://github.com/adminnono/Projet-Kasa-Arnaud-",
     "deployed": "https://projet-kasa-arnaud.vercel.app/",
     "date": "Août & Septembre 2024"

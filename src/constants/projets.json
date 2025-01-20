@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Gaming Campus",
     "description": "Dans le cadre du projet Gaming Campus, j'ai créé une page web responsive en HTML et CSS à partir d'une maquette. J'ai utilisé Flexbox et Grid pour organiser le contenu de manière esthétique et adaptée aux différents écrans. Ce projet m'a permis d'apprendre les bases du HTML/CSS et les principes du design responsive.",
-    "thumbnail": "projects/html&css.webp",
+    "thumbnail": "projects/GamingCampus.png",
     "deployed": "https://adminnono.github.io/gaming-campus/",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/gaming-campus",
     "date": "Décembre 2023"
@@ -12,7 +12,7 @@
     "id": "2",
     "title": "Booki",
     "description": "Le projet Booki consistait à créer une page de réservation de logements et d’activités avec HTML et CSS, en mettant l'accent sur le responsive design. La principale difficulté a été d’adapter le design aux différentes tailles d’écran, ce que j’ai résolu en utilisant des media queries. Ce projet m’a permis de renforcer mes compétences en HTML, CSS et responsive design.",
-    "thumbnail": "projects/html&css.webp",
+    "thumbnail": "projects/booki.png",
     "deployed": "https://adminnono.github.io/booki/",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/booki",
     "date": "Avril 2024"
@@ -21,7 +21,7 @@
     "id": "3",
     "title": "Resto",
     "description": "Le projet Resto consistait à intégrer une maquette de restaurant avec les langages HTML et Sass, un framework de CSS. Ce projet m'a permis de renforcer mes connaissances des langages HTML et css. Je suis motivé de développer mes connaissances de jour en jour.",
-    "thumbnail": "projects/html&css.webp",
+    "thumbnail": "projects/resto.png",
     "deployed": "https://adminnono.github.io/resto/",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/resto",
     "date": "Mai 2024"
@@ -30,7 +30,7 @@
     "id": "4",
     "title": "Nina Carducci",
     "description": "Le projet Nina Carducci consiste à travailler sur l’accessibilité et l’optimisation du SEO du site. Il n'y avait pas vraiment de difficultés pour ce projets. Grâce à ce projet, j'ai développé des compétences en SEO et en accessibilité avec des outils performants comme lighthouse ou encore Wave ",
-    "thumbnail": "projects/seo.webp",
+    "thumbnail": "projects/Nina Carducci.png",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/nina-carducci",
     "deployed": "https://adminnono.github.io/nina-carducci/",
     "date": "Juillet 2024"
@@ -39,7 +39,7 @@
     "id": "5",
     "title": "Kasa",
     "description": "Le projet Kasa consistait à créer une application de location de logements, permettant aux utilisateurs de consulter des annonces et de gérer leurs favoris. La difficulté principale était de gérer les états de l’application et la navigation entre les pages, ce que j’ai résolu avec React. Ce projet m’a permis de développer des compétences en React, JavaScript, SCSS et en intégration d'API pour afficher les données.",
-    "thumbnail": "projects/kasa.webp",
+    "thumbnail": "projects/kasa.png",
     "github": "https://github.com/adminnono/Projet-Kasa-Arnaud-",
     "deployed": "https://projet-kasa-arnaud.vercel.app/",
     "date": "Août & Septembre 2024"

@@ -100,11 +100,29 @@
   },
   {
     "id": "12",
+    "title": "Agence Banana Design",
+    "description": "J’ai conçu un site web pour Banana Design en utilisant WordPress et Elementor, mettant en avant les services de design graphique de l’entreprise. Le principal défi a été d’optimiser le design et l’expérience utilisateur pour refléter l’identité visuelle de la marque. J’ai surmonté cette difficulté en appliquant les principes de design UX/UI et en utilisant des animations interactives. Ce projet m’a permis de renforcer mes compétences en web design et en optimisation UX.",
+    "thumbnail": "projects/bananadesign.png",
+    "github": "https://github.com/adminnono/banana_design",
+    "deployed": "http://localhost/bananadesign/",
+    "date": "Novembre 2024"
+  },
+  {
+    "id": "12",
     "title": "BricoTips",
     "description": "J’ai développé BricoTips, un site web dans le cadre d’un projet OpenClassrooms, en utilisant WordPress avec Gutenberg, HTML, CSS et PHP. J’ai choisi une approche sur mesure, en m’appuyant sur mes compétences de développeur plutôt que sur un thème préconçu. Ce projet m’a permis de renforcer mes connaissances techniques et de créer un site entièrement personnalisé.",
     "thumbnail": "projects/bricoTips.png",
     "github": "https://github.com/adminnono/BricoTips",
-    "deployed": "",
+    "deployed": "http://localhost/bricotips/",
+    "date": "Novembre 2024"
+  },
+  {
+    "id": "12",
+    "title": "CookInFamily",
+    "description": "J’ai conçu un site web pour CookInFamily en développant un thème et un plugin WordPress sur mesure, permettant la gestion et le partage de recettes de cuisine. Le principal défi a été de créer une architecture modulaire et flexible tout en garantissant une expérience utilisateur intuitive. J’ai relevé ce défi en développant un thème WordPress personnalisé avec des templates dynamiques et en créant un plugin dédié pour la gestion des recettes et des interactions utilisateur. Ce projet m’a permis de perfectionner mes compétences en développement WordPress avancé, PHP et création de plugins.",
+    "thumbnail": "projects/cookinfamily.png",
+    "github": "https://github.com/adminnono/CookInFamily",
+    "deployed": "http://localhost/CookInFamily/",
     "date": "Novembre 2024"
   },
   {

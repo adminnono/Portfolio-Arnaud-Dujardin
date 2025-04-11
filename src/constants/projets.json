@@ -133,5 +133,14 @@
     "github": "",
     "deployed": "https://vasty.fr/",
     "date": "Octobre 2024"
+  },
+  {
+    "id": "13",
+    "title": "Alegriaperou",
+    "description": "J'ai conçu Alegriaperou, un site vitrine WordPress pour une association humanitaire pour les enfants du Pérou",
+    "thumbnail": "projects/alegria.png",
+    "github": "",
+    "deployed": "https://alegriaperou.fr/",
+    "date": "Octobre 2024"
   }
 ]

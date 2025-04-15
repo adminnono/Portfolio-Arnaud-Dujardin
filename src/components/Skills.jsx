@@ -1,6 +1,6 @@
 import { useTrail, animated } from "react-spring";
-import { FaHtml5, FaCss3Alt, FaReact, FaTrello, FaNotion } from "react-icons/fa"; // Trello et Notion depuis FontAwesome
-import { SiJavascript, SiVisualstudiocode, SiWordpress, SiPhp, SiCanva } from "react-icons/si"; // Canva depuis Simple Icons
+import { FaHtml5, FaCss3Alt, FaReact } from "react-icons/fa"; // Icônes FontAwesome
+import { SiJavascript, SiVisualstudiocode, SiWordpress, SiPhp } from "react-icons/si"; // Icônes Simple Icons
 import { DiGithubBadge } from "react-icons/di"; // Icône GitHub Badge
 
 // Liste des compétences avec leurs icônes
@@ -13,11 +13,7 @@ const skills = [
   { id: "php", Component: SiPhp, color: "#8993BE", link: "/Php.pdf" },
   { id: "vscode", Component: SiVisualstudiocode, link: "/vsc.pdf" },
   { id: "github", Component: DiGithubBadge, link: "/github.pdf" },
-  { id: "notion", Component: FaNotion, link: "/notion.pdf" },
-  { id: "trello", Component: FaTrello, link: "/trello.pdf" },
-  { id: "canva", Component: SiCanva, link: "/canva.pdf" },
 ];
-
 
 
 export default function Skills() {
@@ -32,7 +28,7 @@ export default function Skills() {
       className="bg-lightDesert rounded-lg shadow-md flex items-center justify-center min-h-screen"
     >
       <div className="text-center max-w-2xl w-full mx-auto">
-        <h2 className="text-4xl font-bold text-darkDesert mb-6">Mes compétences</h2>
+        <h2 className="text-4xl font-bold text-darkDesert mb-6">Mes compétences Web</h2>
         <div className="grid grid-cols-4 gap-4 my-4 justify-items-center">
           {trail.map((props, index) => {
             const { Component, link } = skills[index];

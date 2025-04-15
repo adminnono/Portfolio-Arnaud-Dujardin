@@ -81,7 +81,7 @@ export default function NavBar() {
           >
             <ul className="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
               <NavLink to="/" onClick={toggleOpen}>
-                Mon CV
+                CV
               </NavLink>
               <NavLink to="/projects" onClick={toggleOpen}>
                 Mes réalisations

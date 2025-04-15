@@ -38,7 +38,7 @@
   {
     "id": "5",
     "title": "Kasa",
-    "description": "Le projet Kasa consistait à créer une application de location de logements, permettant aux utilisateurs de consulter des annonces et de gérer leurs favoris. La difficulté principale était de gérer les états de l’application et la navigation entre les pages, ce que j’ai résolu avec React. Ce projet m’a permis de développer des compétences en React, JavaScript, SCSS et en intégration d'API pour afficher les données.",
+    "description": "Projet Kasa : application de location de logements avec gestion des favoris. Utilisation de React pour gérer les états et la navigation. Compétences développées : React, JavaScript, SCSS, intégration d'API.",
     "thumbnail": "projects/Kasa.png",
     "github": "https://github.com/adminnono/Projet-Kasa-Arnaud-",
     "deployed": "https://projet-kasa-arnaud.vercel.app/",
@@ -47,7 +47,7 @@
   {
     "id": "6",
     "title": "Recettes de cuisine",
-    "description": "J'ai conçu le site web 'Recettes de cuisine', un projet développé en PHP avec une attention particulière portée à la sécurité et à la fluidité de l'expérience utilisateur. Le site inclut une page de connexion pour les utilisateurs et un formulaire sécurisé utilisant la méthode POST pour prévenir les failles XSS. La base de données, créée avec phpMyAdmin en SQL, est connectée au site via PHP. Ce projet m’a permis de renforcer mes compétences en PHP, gestion de bases de données SQL et sécurité web.",
+    "description": "Site 'Recettes de cuisine' en PHP, avec gestion sécurisée des utilisateurs et base de données SQL. Focus sur la sécurité web et l’expérience utilisateur fluide.",
     "thumbnail": "projects/phplogo.png",
     "github": "https://github.com/adminnono/Projet-Recettes-PHP",
     "deployed": "",
@@ -56,7 +56,7 @@
   {
     "id": "7",
     "title": "Agence Banana Design",
-    "description": "J’ai conçu un site web pour Banana Design en utilisant WordPress et Elementor, mettant en avant les services de design graphique de l’entreprise. Le principal défi a été d’optimiser le design et l’expérience utilisateur pour refléter l’identité visuelle de la marque. J’ai surmonté cette difficulté en appliquant les principes de design UX/UI et en utilisant des animations interactives. Ce projet m’a permis de renforcer mes compétences en web design et en optimisation UX.",
+    "description": "Site WordPress pour Banana Design avec Elementor, mettant en avant les services de design graphique. Optimisation du design et de l’expérience utilisateur avec des animations interactives.",
     "thumbnail": "projects/bananadesign.png",
     "github": "https://github.com/adminnono/banana_design",
     "deployed": "https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress/",
@@ -65,7 +65,7 @@
   {
     "id": "8",
     "title": "BricoTips",
-    "description": "J’ai développé BricoTips, un site web dans le cadre d’un projet OpenClassrooms, en utilisant WordPress avec Gutenberg, HTML, CSS et PHP. J’ai choisi une approche sur mesure, en m’appuyant sur mes compétences de développeur plutôt que sur un thème préconçu. Ce projet m’a permis de renforcer mes connaissances techniques et de créer un site entièrement personnalisé.",
+    "description": "Développement de BricoTips, un dictionnaire sur le bricolage sous WordPress avec Gutenberg, HTML, CSS et PHP. Création sur mesure sans thème préconçu, renforcement des compétences techniques.",
     "thumbnail": "projects/bricoTips.png",
     "github": "https://github.com/adminnono/BricoTips",
     "deployed": "http://localhost/bricotips/",
@@ -74,7 +74,7 @@
   {
     "id": "9",
     "title": "CookInFamily",
-    "description": "J’ai conçu un site web pour CookInFamily en développant un thème et un plugin WordPress sur mesure, permettant la gestion et le partage de recettes de cuisine. Le principal défi a été de créer une architecture modulaire et flexible tout en garantissant une expérience utilisateur intuitive. J’ai relevé ce défi en développant un thème WordPress personnalisé avec des templates dynamiques et en créant un plugin dédié pour la gestion des recettes et des interactions utilisateur. Ce projet m’a permis de perfectionner mes compétences en développement WordPress avancé, PHP et création de plugins.",
+    "description": "Site WordPress sur mesure pour CookInFamily, avec développement d’un thème et d’un plugin dédiés à la gestion de recettes. Architecture modulaire, expérience utilisateur fluide, focus sur le développement avancé en PHP.",
     "thumbnail": "projects/cookinfamily.png",
     "github": "https://github.com/adminnono/CookInFamily",
     "deployed": "http://localhost/CookInFamily/",
@@ -83,7 +83,7 @@
   {
     "id": "10",
     "title": "Vasty",
-    "description": "J'ai conçu 'Vasty', un site web dédié à l'immobilier haut de gamme à Rouen et ses alentours, développé avec WordPress et un thème enfant personnalisé. Le site propose une expérience utilisateur soignée, avec des filtres avancés permettant de rechercher facilement des biens d'exception selon des critères spécifiques. Chaque bien suit une structure dynamique, garantissant que toute modification de cette structure est automatiquement appliquée à l’ensemble des annonces. Ce projet m’a permis de développer mes compétences en WordPress, création de thèmes enfants et gestion de contenu dynamique, tout en mettant en valeur le prestige des biens immobiliers de la région.",
+    "description": "Création de Vasty, site WordPress dédié à l’immobilier haut de gamme à Rouen. Thème enfant personnalisé, filtres avancés, structure dynamique pour une gestion fluide des annonces.",
     "thumbnail": "projects/vasty.png",
     "github": "",
     "deployed": "https://vasty.fr/",
@@ -92,7 +92,7 @@
   {
     "id": "11",
     "title": "L'EPY Association",
-    "description": "J’ai refondu le site vitrine WordPress du Co-Working associatif de Saint-Symphorien en utilisant le thème Divi, pour offrir une navigation fluide et un accès rapide à la réservation de créneaux de travail. La difficulté principale a été d’optimiser l’ergonomie et la rapidité du site. Ce projet m’a permis de développer mes compétences en WordPress, Divi, UX/UI design, et optimisation de la performance web.",
+    "description": "Refonte du site vitrine du Co-Working associatif de Saint-Symphorien sous WordPress avec Divi. Navigation fluide, accès rapide aux réservations, optimisé pour l’ergonomie et la performance.",
     "thumbnail": "projects/lepy.png",
     "github": "",
     "deployed": "https://lepy-asso.fr/",
@@ -101,7 +101,7 @@
   {
     "id": "12",
     "title": "Erasmus House",
-    "description": "J’ai refondu le site e-commerce Erasmus House, un espace de co-living pour étudiants, en utilisant WordPress avec WooCommerce et le thème Divi. Le site permet de réserver facilement les chambres, avec une interface moderne et intuitive, adaptée aux étudiants internationaux. La difficulté principale a été d'optimiser le site pour le mobile et le SEO, ce que j’ai résolu en intégrant des fonctionnalités adaptées. Ce projet m’a permis de développer mes compétences en WordPress, WooCommerce, Divi, et optimisation SEO et mobile.",
+    "description": "Réalisation du site e-commerce Erasmus House (co-living étudiant) sous WordPress avec WooCommerce et Divi. Réservations en ligne, interface moderne, optimisée mobile et SEO.",
     "thumbnail": "projects/erasmushouse.png",
     "github": "",
     "deployed": "https://erasmushouse.eu/",
@@ -110,7 +110,7 @@
   {
     "id": "13",
     "title": "Apex Soutien Scolaire",
-    "description": "J’ai développé un site web pour Apex Soutien Scolaire sous Divi, avec une intégration à Billet Web permettant aux élèves de réserver des stages de vacances ou d’autres prestations. La difficulté principale a été de gérer l'intégration des réservations, ce que j’ai résolu en utilisant l'API de Billet Web. Ce projet m’a permis de développer mes compétences en WordPress, Divi",
+    "description": "Site WordPress pour Apex Soutien Scolaire, réalisé sous Divi avec intégration Billet Web pour la réservation en ligne de stages. Utilisation de l’API pour une gestion fluide des réservations.",
     "thumbnail": "projects/apex.png",
     "github": "",
     "deployed": "https://apexrouen.fr/",
@@ -119,7 +119,7 @@
   {
     "id": "14",
     "title": "La Plage Française",
-    "description": "J’ai créé un site e-commerce WordPress pour La Plage Française, fabricant de raquettes de plage made in France, en utilisant le thème Divi. Le site est simple et épuré, avec une navigation intuitive et la possibilité d'acheter facilement via WooCommerce. La difficulté principale a été d'optimiser l'expérience mobile et le SEO pour une visibilité maximale. Ce projet m’a permis de développer mes compétences en WordPress, WooCommerce, Divi, et optimisation SEO et mobile.",
+    "description": "Site e-commerce WordPress pour La Plage Française (raquettes de plage made in France). Réalisation sous Divi avec WooCommerce, design épuré, navigation fluide, optimisé pour mobile et SEO.",
     "thumbnail": "projects/laplagefrancaise.png",
     "github": "",
     "deployed": "https://laplagefrancaise.fr/",
@@ -128,7 +128,7 @@
   {
     "id": "15",
     "title": "Yvon Mau Grands Crus",
-    "description": "J'ai conçu le site one-page WordPress pour Yvon Mau Grands Crus, une marque prestigieuse maintenant sous le groupe Freixenet. Le site met en avant l’expertise de la marque avec un design élégant et des descriptions détaillées. La difficulté principale a été de créer une interface fluide et haut de gamme sous Divi pour refléter l’image de la marque. Ce projet m’a permis de développer mes compétences en WordPress, Divi et design web.",
+    "description": "Création d’un site one-page WordPress sous Divi pour Yvon Mau Grands Crus (groupe Freixenet). Objectif : refléter l’image haut de gamme de la marque à travers un design élégant et une navigation fluide.",
     "thumbnail": "projects/yvonmaugrandscrus.png",
     "github": "",
     "deployed": "https://ymgc.fr/",

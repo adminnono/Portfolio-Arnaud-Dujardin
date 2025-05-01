@@ -36,6 +36,15 @@
     "date": "Décembre 2023"
   },
   {
+    "id": "4",
+    "title": "L'agence immobilière bordelaise",
+    "description": "Dans le cadre du projet Gaming Campus, j'ai créé une page web responsive en HTML et CSS à partir d'une maquette. J'ai utilisé Flexbox et Grid pour organiser le contenu de manière esthétique et adaptée aux différents écrans. Ce projet m'a permis d'apprendre les bases du HTML/CSS et les principes du design responsive.",
+    "thumbnail": "projects/GamingCampus.png",
+    "deployed": "https://adminnono.github.io/Agence%20Bordelaise/",
+    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/Agence%20Bordelaise",
+    "date": "Janvier 2024"
+  },
+  {
     "id": "5",
     "title": "Kasa",
     "description": "Projet Kasa : application de location de logements avec gestion des favoris. Utilisation de React pour gérer les états et la navigation. Compétences développées : React, JavaScript, SCSS, intégration d'API.",

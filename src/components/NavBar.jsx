@@ -80,9 +80,6 @@ export default function NavBar() {
             id="mobile-menu-2"
           >
             <ul className="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
-              <NavLink to="/" onClick={toggleOpen}>
-                CV
-              </NavLink>
               <NavLink to="/projects" onClick={toggleOpen}>
                 Mes réalisations
               </NavLink>

@@ -4,7 +4,6 @@ import { ToastContainer} from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css';
 import {
   NavBar,
-  Home,
   About, 
   Projects,
   Skills,
@@ -26,14 +25,15 @@ function App() {
         <div className="bg-lightDesert">
           <NavBar />
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/projects" element={<Projects />} />
-            <Route path="/skills" element={<Skills />} />
-            <Route path="/experience" element={<Experience />} />
-            <Route path="/contact" element={<ContactMe />} />
-            <Route path="*" element={<NotFound />} />
-          </Routes>
+  <Route path="/" element={<Projects/>} /> 
+  <Route path="/about" element={<About />} />
+  <Route path="/projects" element={<Projects />} />
+  <Route path="/skills" element={<Skills />} />
+  <Route path="/experience" element={<Experience />} />
+  <Route path="/contact" element={<ContactMe />} />
+  <Route path="*" element={<NotFound />} />
+</Routes>
+
           <Footer />
         </div>
       </Router>

@@ -36,7 +36,7 @@
     "date": "Décembre 2023"
   },
   {
-    "id": "4",
+    "id": "5",
     "title": "L'agence immobilière",
     "description": "Il s'agit d'un projet fictif d'agence immobilière basée à Bordeaux. Le site est conçu en HTML et CSS avec le framework responsive Bootstrap. Il propose des pages de listing avec filtres pour les différents types de biens : appartements, villas et penthouses. Un formulaire de contact permet aux utilisateurs de nous écrire. Une carte Google Maps intégrée affiche l’emplacement de l’agence.",
     "thumbnail": "projects/immobilier.png",
@@ -45,22 +45,13 @@
     "date": "Janvier 2024"
   },
   {
-    "id": "5",
+    "id": "6",
     "title": "Kasa",
     "description": "Projet Kasa : application de location de logements avec gestion des favoris. Utilisation de React pour gérer les états et la navigation. Compétences développées : React, JavaScript, SCSS, intégration d'API.",
     "thumbnail": "projects/Kasa.png",
     "github": "https://github.com/adminnono/Projet-Kasa-Arnaud-",
     "deployed": "https://projet-kasa-arnaud.vercel.app/",
     "date": "Août & Septembre 2024"
-  },
-  {
-    "id": "6",
-    "title": "Recettes de cuisine",
-    "description": "Site 'Recettes de cuisine' en PHP, avec gestion sécurisée des utilisateurs et base de données SQL. Focus sur la sécurité web et l’expérience utilisateur fluide.",
-    "thumbnail": "projects/phplogo.png",
-    "github": "https://github.com/adminnono/Projet-Recettes-PHP",
-    "deployed": "",
-    "date": "Janvier 2025"
   },
   {
     "id": "7",
@@ -73,33 +64,6 @@
   },
   {
     "id": "8",
-    "title": "BricoTips",
-    "description": "Développement de BricoTips, un dictionnaire sur le bricolage sous WordPress avec Gutenberg, HTML, CSS et PHP. Création sur mesure sans thème préconçu, renforcement des compétences techniques.",
-    "thumbnail": "projects/bricoTips.png",
-    "github": "https://github.com/adminnono/BricoTips",
-    "deployed": "http://localhost/bricotips/",
-    "date": "Novembre 2024"
-  },
-  {
-    "id": "9",
-    "title": "CookInFamily",
-    "description": "Site WordPress sur mesure pour CookInFamily, avec développement d’un thème et d’un plugin dédiés à la gestion de recettes. Architecture modulaire, expérience utilisateur fluide, focus sur le développement avancé en PHP.",
-    "thumbnail": "projects/cookinfamily.png",
-    "github": "https://github.com/adminnono/CookInFamily",
-    "deployed": "http://localhost/CookInFamily/",
-    "date": "Novembre 2024"
-  },
-  {
-    "id": "10",
-    "title": "Vasty",
-    "description": "Création de Vasty, site WordPress dédié à l’immobilier haut de gamme à Rouen. Thème enfant personnalisé, filtres avancés, structure dynamique pour une gestion fluide des annonces.",
-    "thumbnail": "projects/vasty.png",
-    "github": "",
-    "deployed": "https://vasty.fr/",
-    "date": "Octobre 2024"
-  },
-  {
-    "id": "11",
     "title": "L'EPY Association",
     "description": "Refonte du site vitrine du Co-Working associatif de Saint-Symphorien sous WordPress avec Divi. Navigation fluide, accès rapide aux réservations, optimisé pour l’ergonomie et la performance.",
     "thumbnail": "projects/lepy.png",
@@ -108,7 +72,7 @@
     "date": "Mars & Mai 2024"
   },
   {
-    "id": "12",
+    "id": "9",
     "title": "Erasmus House",
     "description": "Réalisation du site e-commerce Erasmus House (co-living étudiant) sous WordPress avec WooCommerce et Divi. Réservations en ligne, interface moderne, optimisée mobile et SEO.",
     "thumbnail": "projects/erasmushouse.png",
@@ -117,7 +81,7 @@
     "date": "Août & Septembre 2024"
   },
   {
-    "id": "13",
+    "id": "10",
     "title": "Apex Soutien Scolaire",
     "description": "Site WordPress pour Apex Soutien Scolaire, réalisé sous Divi avec intégration Billet Web pour la réservation en ligne de stages. Utilisation de l’API pour une gestion fluide des réservations.",
     "thumbnail": "projects/apex.png",
@@ -126,7 +90,7 @@
     "date": "Novembre 2024"
   },
   {
-    "id": "14",
+    "id": "11",
     "title": "La Plage Française",
     "description": "Site e-commerce WordPress pour La Plage Française (raquettes de plage made in France). Réalisation sous Divi avec WooCommerce, design épuré, navigation fluide, optimisé pour mobile et SEO.",
     "thumbnail": "projects/laplagefrancaise.png",
@@ -135,7 +99,7 @@
     "date": "Octobre 2024"
   },
   {
-    "id": "15",
+    "id": "12",
     "title": "Yvon Mau Grands Crus",
     "description": "Création d’un site one-page WordPress sous Divi pour Yvon Mau Grands Crus (groupe Freixenet). Objectif : refléter l’image haut de gamme de la marque à travers un design élégant et une navigation fluide.",
     "thumbnail": "projects/yvonmaugrandscrus.png",
@@ -144,7 +108,7 @@
     "date": "Juin 2024"
   },
   {
-    "id": "16",
+    "id": "13",
     "title": "Alegriaperou",
     "description": "J'ai conçu Alegriaperou, un site vitrine WordPress pour une association humanitaire pour les enfants du Pérou",
     "thumbnail": "projects/alegria.png",

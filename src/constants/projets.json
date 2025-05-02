@@ -37,9 +37,9 @@
   },
   {
     "id": "4",
-    "title": "L'agence immobilière bordelaise",
-    "description": "Dans le cadre du projet Gaming Campus, j'ai créé une page web responsive en HTML et CSS à partir d'une maquette. J'ai utilisé Flexbox et Grid pour organiser le contenu de manière esthétique et adaptée aux différents écrans. Ce projet m'a permis d'apprendre les bases du HTML/CSS et les principes du design responsive.",
-    "thumbnail": "projects/GamingCampus.png",
+    "title": "L'agence immobilière",
+    "description": "Il s'agit d'un projet fictif d'agence immobilière basée à Bordeaux. Le site est conçu en HTML et CSS avec le framework responsive Bootstrap. Il propose des pages de listing avec filtres pour les différents types de biens : appartements, villas et penthouses. Un formulaire de contact permet aux utilisateurs de nous écrire. Une carte Google Maps intégrée affiche l’emplacement de l’agence.",
+    "thumbnail": "projects/immobilier.png",
     "deployed": "https://adminnono.github.io/Agence%20Bordelaise/",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/Agence%20Bordelaise",
     "date": "Janvier 2024"

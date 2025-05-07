@@ -11,11 +11,14 @@ import { DiGithubBadge } from "react-icons/di";
 import { SiNotion } from "react-icons/si";
 import { SiMysql } from "react-icons/si";
 import { SiGit } from "react-icons/si";
-import { SiBootstrap, SiSass, SiVite, SiJquery, SiGutenberg } from "react-icons/si";
+import {
+  SiBootstrap,
+  SiSass,
+  SiVite,
+  SiJquery,
+  SiGutenberg,
+} from "react-icons/si";
 import { SiWoocommerce, SiElementor } from "react-icons/si";
-
-
-
 
 // Liste des compétences avec leurs icônes
 const skills = [
@@ -38,16 +41,21 @@ const skills = [
   { id: "git", Component: SiGit, link: "/github.pdf" },
   { id: "figma", Component: SiFigma, link: "/figma.pdf" },
   { id: "notion", Component: SiNotion, link: "/notion.pdf" },
-
 ];
 
-
-{skills.map(({ id, Component, link }) => (
-  <a key={id} href={link} className="btn btn-outline-primary m-2" target="_blank" rel="noopener noreferrer">
-    <Component size={id === "woocommerce" ? 72 : 48} />
-  </a>
-))}
-
+{
+  skills.map(({ id, Component, link }) => (
+    <a
+      key={id}
+      href={link}
+      className="btn btn-outline-primary m-2"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <Component size={id === "woocommerce" ? 72 : 48} />
+    </a>
+  ));
+}
 
 export default function Skills() {
   const trail = useTrail(skills.length, {
@@ -61,11 +69,13 @@ export default function Skills() {
       className="bg-lightDesert rounded-lg shadow-md flex items-center justify-center min-h-screen"
     >
       <div className="text-center max-w-2xl w-full mx-auto">
-        <h2 className="text-4xl font-bold text-darkDesert mb-6">Mes compétences</h2>
+        <h2 className="text-4xl font-bold text-darkDesert mb-6">
+          Mes compétences
+        </h2>
         <div className="grid grid-cols-4 gap-4 my-4 justify-items-center">
           {trail.map((props, index) => {
             const { Component, link, id } = skills[index];
-            
+
             const iconSize = id === "woocommerce" ? 72 : 48;
 
             return (

@@ -19,6 +19,15 @@
   },
   {
     "id": "3",
+    "title": "La montagne",
+    "description": "Le projet Montagne consistait à intégrer une maquette de site de randonnées en montagne avec les langages HTML et Sass, un framework de CSS. Ce projet m'a permis de renforcer mes connaissances des langages HTML et Sass. Je suis motivé de développer mes connaissances de jour en jour.",
+    "thumbnail": "projects/montagne.png",
+    "deployed": "https://adminnono.github.io/montagne",
+    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/montagne",
+    "date": "Mai 2024"
+  },
+  {
+    "id": "4",
     "title": "Nina Carducci",
     "description": "Le projet Nina Carducci consiste à travailler sur l’accessibilité et l’optimisation du SEO du site. Il n'y avait pas vraiment de difficultés pour ce projets. Grâce à ce projet, j'ai développé des compétences en SEO et en accessibilité avec des outils performants comme lighthouse ou encore Wave ",
     "thumbnail": "projects/Nina Carducci.png",
@@ -27,7 +36,7 @@
     "date": "Juillet 2024"
   },
   {
-    "id": "4",
+    "id": "5",
     "title": "Gaming Campus",
     "description": "Dans le cadre du projet Gaming Campus, j'ai créé une page web responsive en HTML et CSS à partir d'une maquette. J'ai utilisé Flexbox et Grid pour organiser le contenu de manière esthétique et adaptée aux différents écrans. Ce projet m'a permis d'apprendre les bases du HTML/CSS et les principes du design responsive.",
     "thumbnail": "projects/GamingCampus.png",
@@ -36,7 +45,7 @@
     "date": "Décembre 2023"
   },
   {
-    "id": "5",
+    "id": "6",
     "title": "L'agence immobilière",
     "description": "Il s'agit d'un projet fictif d'agence immobilière basée à Bordeaux. Le site est conçu en HTML et CSS avec le framework responsive Bootstrap. Il propose des pages de listing avec filtres pour les différents types de biens : appartements, villas et penthouses. Un formulaire de contact permet aux utilisateurs de nous écrire. Une carte Google Maps intégrée affiche l’emplacement de l’agence.",
     "thumbnail": "projects/immobilier.png",
@@ -45,7 +54,7 @@
     "date": "Janvier 2024"
   },
   {
-    "id": "6",
+    "id": "7",
     "title": "Kasa",
     "description": "Projet Kasa : application de location de logements avec gestion des favoris. Utilisation de React pour gérer les états et la navigation. Compétences développées : React, JavaScript, SCSS, intégration d'API.",
     "thumbnail": "projects/Kasa.png",
@@ -54,7 +63,7 @@
     "date": "Août & Septembre 2024"
   },
   {
-    "id": "7",
+    "id": "8",
     "title": "Agence Banana Design",
     "description": "Site WordPress pour Banana Design avec Elementor, mettant en avant les services de design graphique. Optimisation du design et de l’expérience utilisateur avec des animations interactives.",
     "thumbnail": "projects/bananadesign.png",
@@ -63,7 +72,7 @@
     "date": "Novembre 2024"
   },
   {
-    "id": "8",
+    "id": "9",
     "title": "L'EPY Association",
     "description": "Refonte du site vitrine du Co-Working associatif de Saint-Symphorien sous WordPress avec Divi. Navigation fluide, accès rapide aux réservations, optimisé pour l’ergonomie et la performance.",
     "thumbnail": "projects/lepy.png",
@@ -72,7 +81,7 @@
     "date": "Mars & Mai 2024"
   },
   {
-    "id": "9",
+    "id": "10",
     "title": "Erasmus House",
     "description": "Réalisation du site e-commerce Erasmus House (co-living étudiant) sous WordPress avec WooCommerce et Divi. Réservations en ligne, interface moderne, optimisée mobile et SEO.",
     "thumbnail": "projects/erasmushouse.png",
@@ -81,7 +90,7 @@
     "date": "Août & Septembre 2024"
   },
   {
-    "id": "10",
+    "id": "11",
     "title": "Apex Soutien Scolaire",
     "description": "Site WordPress pour Apex Soutien Scolaire, réalisé sous Divi avec intégration Billet Web pour la réservation en ligne de stages. Utilisation de l’API pour une gestion fluide des réservations.",
     "thumbnail": "projects/apex.png",
@@ -90,7 +99,7 @@
     "date": "Novembre 2024"
   },
   {
-    "id": "11",
+    "id": "12",
     "title": "La Plage Française",
     "description": "Site e-commerce WordPress pour La Plage Française (raquettes de plage made in France). Réalisation sous Divi avec WooCommerce, design épuré, navigation fluide, optimisé pour mobile et SEO.",
     "thumbnail": "projects/laplagefrancaise.png",
@@ -99,7 +108,7 @@
     "date": "Octobre 2024"
   },
   {
-    "id": "12",
+    "id": "13",
     "title": "Yvon Mau Grands Crus",
     "description": "Création d’un site one-page WordPress sous Divi pour Yvon Mau Grands Crus (groupe Freixenet). Objectif : refléter l’image haut de gamme de la marque à travers un design élégant et une navigation fluide.",
     "thumbnail": "projects/yvonmaugrandscrus.png",
@@ -108,7 +117,7 @@
     "date": "Juin 2024"
   },
   {
-    "id": "13",
+    "id": "14",
     "title": "Alegriaperou",
     "description": "J'ai conçu Alegriaperou, un site vitrine WordPress pour une association humanitaire pour les enfants du Pérou",
     "thumbnail": "projects/alegria.png",

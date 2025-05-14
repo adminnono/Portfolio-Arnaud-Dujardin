@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Booki",
-    "description": "Le projet Booki consistait à créer une page de réservation de logements et d’activités avec HTML et CSS, en mettant l'accent sur le responsive design. La principale difficulté a été d’adapter le design aux différentes tailles d’écran, ce que j’ai résolu en utilisant des media queries. Ce projet m’a permis de renforcer mes compétences en HTML, CSS et responsive design.",
+    "description": "Le projet Booki consistait à créer une page de réservation de logements et d’activités avec HTML et SCSS, en mettant l'accent sur le responsive design. La principale difficulté a été d’adapter le design aux différentes tailles d’écran",
     "thumbnail": "projects/Booki.png",
     "deployed": "https://adminnono.github.io/booki/",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/booki",

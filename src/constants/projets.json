@@ -38,7 +38,7 @@
   {
     "id": "5",
     "title": "Gaming Campus",
-    "description": "Dans le cadre du projet Gaming Campus, j'ai créé une page web responsive en HTML et CSS à partir d'une maquette. J'ai utilisé Flexbox et Grid pour organiser le contenu de manière esthétique et adaptée aux différents écrans. Ce projet m'a permis d'apprendre les bases du HTML/CSS et les principes du design responsive.",
+    "description": "Dans le cadre du projet Gaming Campus, j'ai créé une page web responsive en HTML et SCSS à partir d'une maquette. J'ai utilisé Flexbox et Grid pour organiser le contenu de manière esthétique et adaptée aux différents écrans.",
     "thumbnail": "projects/GamingCampus.png",
     "deployed": "https://adminnono.github.io/gaming-campus/",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/gaming-campus",

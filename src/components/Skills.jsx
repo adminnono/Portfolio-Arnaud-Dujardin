@@ -22,25 +22,22 @@ import { SiWoocommerce, SiElementor } from "react-icons/si";
 
 // Liste des compétences avec leurs icônes
 const skills = [
-  { id: "wordpress", Component: SiWordpress, link: "/Wordpress.pdf" },
-  { id: "elementor", Component: SiElementor, link: "/elementor.pdf" },
-  { id: "gutenberg", Component: SiGutenberg, link: "/gutenberg.pdf" },
-  { id: "woocommerce", Component: SiWoocommerce, link: "/woocommerce.pdf" },
-  { id: "vscode", Component: SiVisualstudiocode, link: "/vsc.pdf" },
   { id: "html", Component: FaHtml5, link: "/html&css.pdf" },
   { id: "css", Component: FaCss3Alt, link: "/html&css.pdf" },
   { id: "sass", Component: SiSass, link: "/sass.pdf" },
-  { id: "bootstrap", Component: SiBootstrap, link: "/bootstrap.pdf" },
-  { id: "php", Component: SiPhp, color: "#8993BE", link: "/Php.pdf" },
-  { id: "mysql", Component: SiMysql, link: "/Php.pdf" },
   { id: "javascript", Component: SiJavascript, link: "/javascript.pdf" },
-  { id: "jquery", Component: SiJquery, link: "/jquery.pdf" },
   { id: "react", Component: FaReact, link: "/react.pdf" },
-  { id: "vite", Component: SiVite, link: "/vite.pdf" },
+  { id: "vscode", Component: SiVisualstudiocode, link: "/vsc.pdf" },
+  { id: "bootstrap", Component: SiBootstrap, link: "/bootstrap.pdf" },
   { id: "github", Component: DiGithubBadge, link: "/github.pdf" },
   { id: "git", Component: SiGit, link: "/github.pdf" },
   { id: "figma", Component: SiFigma, link: "/figma.pdf" },
   { id: "notion", Component: SiNotion, link: "/notion.pdf" },
+  { id: "wordpress", Component: SiWordpress, link: "/Wordpress.pdf" },
+  { id: "elementor", Component: SiElementor, link: "/elementor.pdf" },
+  { id: "gutenberg", Component: SiGutenberg, link: "/gutenberg.pdf" },
+  { id: "php", Component: SiPhp, color: "#8993BE", link: "/Php.pdf" },
+  { id: "mysql", Component: SiMysql, link: "/Php.pdf" },
 ];
 
 {

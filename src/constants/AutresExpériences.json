@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "Animateur pricipal d'un camping de 500 personnes",
+    "title": "Animateur principal d'un camping de 500 personnes",
     "company": "Marmotel Saint Geniez d'Olt",
     "description": "J'ai animé un camping de 500 vacanciers pendant plus de 2 mois en 2020 et 2021",
     "timePeriod": "Juillet & Août 2020 et 2021",
@@ -15,5 +15,4 @@
     "timePeriod": "Juin 2015",
     "img": "images/ping.webp"
   }
-  
 ]

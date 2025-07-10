@@ -46,15 +46,87 @@
   },
   {
     "id": "6",
-    "title": "L'agence immobilière",
-    "description": "Il s'agit d'un projet fictif d'agence immobilière basée à Bordeaux. Le site est conçu en HTML et CSS avec le framework responsive Bootstrap. Il propose des pages de listing avec filtres pour les différents types de biens : appartements, villas et penthouses. Un formulaire de contact permet aux utilisateurs de nous écrire. Une carte Google Maps intégrée affiche l’emplacement de l’agence.",
+    "title": "To Do List App",
+    "description": "Il s'agit d'un projet de création de To Do List avec Javascript et CSS. On utilise notamment le LocalStorage pour garder en mémoire sur l'ordinateur les tâches même après chargement de la page",
     "thumbnail": "projects/immobilier.png",
-    "deployed": "https://adminnono.github.io/Agence%20Bordelaise/",
-    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/Agence%20Bordelaise",
+    "deployed": "https://adminnono.github.io/todo-list",
+    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/todo-list",
     "date": "Janvier 2024"
   },
   {
     "id": "7",
+    "title": "Country App",
+    "description": "Il s'agit d'un projet d'affichage de cartes dynamiques des pays du monde grâce à la méthode Map, Filter, Slice et Sort en JavaScript",
+    "thumbnail": "projects/immobilier.png",
+    "deployed": "https://adminnono.github.io/country-app/",
+    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/country-app",
+    "date": "Janvier 2024"
+  },
+  {
+    "id": "8",
+    "title": "Meal App",
+    "description": "Il s'agit d'un projet d'affichage de cartes dynamiques de plats du monde grâce à un fetch d'un lien d'API puis la méthode Map, Filter, Slice et Sort en JavaScript",
+    "thumbnail": "projects/immobilier.png",
+    "deployed": "https://adminnono.github.io/meal-app",
+    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/meal-app",
+    "date": "Janvier 2024"
+  },
+  {
+    "id": "9",
+    "title": "Form Checker",
+    "description": "Il s'agit d'un projet d'affichage de cartes dynamiques de plats du monde grâce à un fetch d'un lien d'API puis la méthode Map, Filter, Slice et Sort en JavaScript",
+    "thumbnail": "projects/immobilier.png",
+    "deployed": "https://adminnono.github.io/form-checker/",
+    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/form-checker",
+    "date": "Janvier 2024"
+  },
+  {
+    "id": "10",
+    "title": "User App",
+    "description": "Il s'agit d'un projet d'affichage de cartes dynamiques de plats du monde grâce à un fetch d'un lien d'API puis la méthode Map et ToIsoString pour manipuler les dates en JavaScript",
+    "thumbnail": "projects/immobilier.png",
+    "deployed": "https://adminnono.github.io/user-app/",
+    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/user-app",
+    "date": "Janvier 2024"
+  },
+  {
+    "id": "11",
+    "title": "Date Calculator",
+    "description": "Il s'agit d'un projet JavaScript sur les manipulations de date. En fonction, cela calcule le coût total du séjour",
+    "thumbnail": "projects/immobilier.png",
+    "deployed": "https://adminnono.github.io/date-calculator",
+    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/date-calculator",
+    "date": "Janvier 2024"
+  },
+  {
+    "id": "12",
+    "title": "Bubble Generator",
+    "description": "Il s'agit d'un projet JavaScript sur les manipulations de date. En fonction, cela calcule le coût total du séjour",
+    "thumbnail": "projects/immobilier.png",
+    "deployed": "https://adminnono.github.io/bulles/",
+    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/bulles",
+    "date": "Janvier 2024"
+  },
+  {
+    "id": "13",
+    "title": "Drag and Drop",
+    "description": "Il s'agit d'un projet JavaScript sur les manipulations de date. En fonction, cela calcule le coût total du séjour",
+    "thumbnail": "projects/immobilier.png",
+    "deployed": "https://adminnono.github.io/drag-and-drop/",
+    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/drag-and-drop",
+    "date": "Janvier 2024"
+  },
+  {
+    "id": "14",
+    "title": "Coutries React App",
+    "description": "Il s'agit d'un projet React sur les manipulations de date. En fonction, cela calcule le coût total du séjour",
+    "thumbnail": "projects/immobilier.png",
+    "deployed": "https://countries-react-two.vercel.app/",
+    "github": "https://github.com/adminnono/countries-react",
+    "date": "Janvier 2024"
+  },
+  {
+    "id": "15",
     "title": "Kasa",
     "description": "Projet Kasa : application de location de logements avec gestion des favoris. Utilisation de React pour gérer les états et la navigation. Compétences développées : React, JavaScript, SCSS, intégration d'API.",
     "thumbnail": "projects/Kasa.png",
@@ -63,7 +135,7 @@
     "date": "Août & Septembre 2024"
   },
   {
-    "id": "8",
+    "id": "16",
     "title": "Agence Banana Design",
     "description": "Site WordPress pour Banana Design avec Elementor, mettant en avant les services de design graphique. Optimisation du design et de l’expérience utilisateur avec des animations interactives.",
     "thumbnail": "projects/bananadesign.png",
@@ -72,7 +144,7 @@
     "date": "Novembre 2024"
   },
   {
-    "id": "9",
+    "id": "17",
     "title": "L'EPY Association",
     "description": "Refonte du site vitrine du Co-Working associatif de Saint-Symphorien sous WordPress avec Divi. Navigation fluide, accès rapide aux réservations, optimisé pour l’ergonomie et la performance.",
     "thumbnail": "projects/lepy.png",
@@ -81,7 +153,7 @@
     "date": "Mars & Mai 2024"
   },
   {
-    "id": "10",
+    "id": "18",
     "title": "Erasmus House",
     "description": "Réalisation du site e-commerce Erasmus House (co-living étudiant) sous WordPress avec WooCommerce et Divi. Réservations en ligne, interface moderne, optimisée mobile et SEO.",
     "thumbnail": "projects/erasmushouse.png",
@@ -90,7 +162,7 @@
     "date": "Août & Septembre 2024"
   },
   {
-    "id": "11",
+    "id": "19",
     "title": "Apex Soutien Scolaire",
     "description": "Site WordPress pour Apex Soutien Scolaire, réalisé sous Divi avec intégration Billet Web pour la réservation en ligne de stages. Utilisation de l’API pour une gestion fluide des réservations.",
     "thumbnail": "projects/apex.png",
@@ -99,7 +171,7 @@
     "date": "Novembre 2024"
   },
   {
-    "id": "12",
+    "id": "20",
     "title": "La Plage Française",
     "description": "Site e-commerce WordPress pour La Plage Française (raquettes de plage made in France). Réalisation sous Divi avec WooCommerce, design épuré, navigation fluide, optimisé pour mobile et SEO.",
     "thumbnail": "projects/laplagefrancaise.png",
@@ -108,7 +180,7 @@
     "date": "Octobre 2024"
   },
   {
-    "id": "13",
+    "id": "21",
     "title": "Yvon Mau Grands Crus",
     "description": "Création d’un site one-page WordPress sous Divi pour Yvon Mau Grands Crus (groupe Freixenet). Objectif : refléter l’image haut de gamme de la marque à travers un design élégant et une navigation fluide.",
     "thumbnail": "projects/yvonmaugrandscrus.png",
@@ -117,7 +189,7 @@
     "date": "Juin 2024"
   },
   {
-    "id": "14",
+    "id": "22",
     "title": "Alegriaperou",
     "description": "J'ai conçu Alegriaperou, un site vitrine WordPress pour une association humanitaire pour les enfants du Pérou",
     "thumbnail": "projects/alegria.png",

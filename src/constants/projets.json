@@ -46,81 +46,72 @@
   },
   {
     "id": "6",
-    "title": "To Do List App",
+    "title": "JS To Do List App",
     "description": "Il s'agit d'un projet de création de To Do List avec Javascript et CSS. On utilise notamment le LocalStorage pour garder en mémoire sur l'ordinateur les tâches même après chargement de la page",
-    "thumbnail": "projects/immobilier.png",
+    "thumbnail": "projects/todo.png",
     "deployed": "https://adminnono.github.io/todo-list",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/todo-list",
     "date": "Janvier 2024"
   },
   {
     "id": "7",
-    "title": "Country App",
+    "title": "JS Country App",
     "description": "Il s'agit d'un projet d'affichage de cartes dynamiques des pays du monde grâce à la méthode Map, Filter, Slice et Sort en JavaScript",
-    "thumbnail": "projects/immobilier.png",
+    "thumbnail": "projects/countryapp.png",
     "deployed": "https://adminnono.github.io/country-app/",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/country-app",
     "date": "Janvier 2024"
   },
   {
     "id": "8",
-    "title": "Meal App",
+    "title": "JS Meal App",
     "description": "Il s'agit d'un projet d'affichage de cartes dynamiques de plats du monde grâce à un fetch d'un lien d'API puis la méthode Map, Filter, Slice et Sort en JavaScript",
-    "thumbnail": "projects/immobilier.png",
+    "thumbnail": "projects/mealapp.png",
     "deployed": "https://adminnono.github.io/meal-app",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/meal-app",
     "date": "Janvier 2024"
   },
   {
     "id": "9",
-    "title": "Form Checker",
+    "title": "JS Form Checker",
     "description": "Il s'agit d'un projet d'affichage de cartes dynamiques de plats du monde grâce à un fetch d'un lien d'API puis la méthode Map, Filter, Slice et Sort en JavaScript",
-    "thumbnail": "projects/immobilier.png",
+    "thumbnail": "projects/form.png",
     "deployed": "https://adminnono.github.io/form-checker/",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/form-checker",
     "date": "Janvier 2024"
   },
   {
     "id": "10",
-    "title": "User App",
+    "title": "JS User App",
     "description": "Il s'agit d'un projet d'affichage de cartes dynamiques de plats du monde grâce à un fetch d'un lien d'API puis la méthode Map et ToIsoString pour manipuler les dates en JavaScript",
-    "thumbnail": "projects/immobilier.png",
+    "thumbnail": "projects/user.png",
     "deployed": "https://adminnono.github.io/user-app/",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/user-app",
     "date": "Janvier 2024"
   },
   {
     "id": "11",
-    "title": "Date Calculator",
+    "title": "JS Date Calculator App",
     "description": "Il s'agit d'un projet JavaScript sur les manipulations de date. En fonction, cela calcule le coût total du séjour",
-    "thumbnail": "projects/immobilier.png",
+    "thumbnail": "projects/date.png",
     "deployed": "https://adminnono.github.io/date-calculator",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/date-calculator",
     "date": "Janvier 2024"
   },
   {
     "id": "12",
-    "title": "Bubble Generator",
+    "title": "JS Bubble Generator",
     "description": "Il s'agit d'un projet JavaScript sur les manipulations de date. En fonction, cela calcule le coût total du séjour",
-    "thumbnail": "projects/immobilier.png",
+    "thumbnail": "projects/bubble.png",
     "deployed": "https://adminnono.github.io/bulles/",
     "github": "https://github.com/adminnono/adminnono.github.io/tree/main/bulles",
-    "date": "Janvier 2024"
-  },
-  {
-    "id": "13",
-    "title": "Drag and Drop",
-    "description": "Il s'agit d'un projet JavaScript sur les manipulations de date. En fonction, cela calcule le coût total du séjour",
-    "thumbnail": "projects/immobilier.png",
-    "deployed": "https://adminnono.github.io/drag-and-drop/",
-    "github": "https://github.com/adminnono/adminnono.github.io/tree/main/drag-and-drop",
     "date": "Janvier 2024"
   },
   {
     "id": "14",
     "title": "Coutries React App",
     "description": "Il s'agit d'un projet React sur les manipulations de date. En fonction, cela calcule le coût total du séjour",
-    "thumbnail": "projects/immobilier.png",
+    "thumbnail": "projects/world.png",
     "deployed": "https://countries-react-two.vercel.app/",
     "github": "https://github.com/adminnono/countries-react",
     "date": "Janvier 2024"
@@ -136,11 +127,20 @@
   },
   {
     "id": "16",
-    "title": "Meal React App",
+    "title": "React Cooking App",
     "description": "Projet d'affichage de cartes de recettes avec recherche dynamique grâce au map, au slice et une API",
-    "thumbnail": "projects/Kasa.png",
+    "thumbnail": "projects/meal.png",
     "github": "https://github.com/adminnono/meal-react-app",
     "deployed": "https://meal-react-app-zeta.vercel.app/",
+    "date": "Août & Septembre 2024"
+  },
+  {
+    "id": "16",
+    "title": "Vasty immobilier",
+    "description": "Projet d'affichage de cartes de recettes avec recherche dynamique grâce au map, au slice et une API",
+    "thumbnail": "projects/vasty.png",
+    "github": "",
+    "deployed": "https://vasty.fr/",
     "date": "Août & Septembre 2024"
   },
   {

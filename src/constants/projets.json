@@ -136,6 +136,15 @@
   },
   {
     "id": "16",
+    "title": "Meal React App",
+    "description": "Projet d'affichage de cartes de recettes avec recherche dynamique grâce au map, au slice et une API",
+    "thumbnail": "projects/Kasa.png",
+    "github": "https://github.com/adminnono/meal-react-app",
+    "deployed": "https://meal-react-app-zeta.vercel.app/",
+    "date": "Août & Septembre 2024"
+  },
+  {
+    "id": "17",
     "title": "Agence Banana Design",
     "description": "Site WordPress pour Banana Design avec Elementor, mettant en avant les services de design graphique. Optimisation du design et de l’expérience utilisateur avec des animations interactives.",
     "thumbnail": "projects/bananadesign.png",
@@ -144,7 +153,7 @@
     "date": "Novembre 2024"
   },
   {
-    "id": "17",
+    "id": "18",
     "title": "L'EPY Association",
     "description": "Refonte du site vitrine du Co-Working associatif de Saint-Symphorien sous WordPress avec Divi. Navigation fluide, accès rapide aux réservations, optimisé pour l’ergonomie et la performance.",
     "thumbnail": "projects/lepy.png",
@@ -153,7 +162,7 @@
     "date": "Mars & Mai 2024"
   },
   {
-    "id": "18",
+    "id": "19",
     "title": "Erasmus House",
     "description": "Réalisation du site e-commerce Erasmus House (co-living étudiant) sous WordPress avec WooCommerce et Divi. Réservations en ligne, interface moderne, optimisée mobile et SEO.",
     "thumbnail": "projects/erasmushouse.png",
@@ -162,7 +171,7 @@
     "date": "Août & Septembre 2024"
   },
   {
-    "id": "19",
+    "id": "20",
     "title": "Apex Soutien Scolaire",
     "description": "Site WordPress pour Apex Soutien Scolaire, réalisé sous Divi avec intégration Billet Web pour la réservation en ligne de stages. Utilisation de l’API pour une gestion fluide des réservations.",
     "thumbnail": "projects/apex.png",
@@ -171,7 +180,7 @@
     "date": "Novembre 2024"
   },
   {
-    "id": "20",
+    "id": "21",
     "title": "La Plage Française",
     "description": "Site e-commerce WordPress pour La Plage Française (raquettes de plage made in France). Réalisation sous Divi avec WooCommerce, design épuré, navigation fluide, optimisé pour mobile et SEO.",
     "thumbnail": "projects/laplagefrancaise.png",
@@ -180,7 +189,7 @@
     "date": "Octobre 2024"
   },
   {
-    "id": "21",
+    "id": "22",
     "title": "Yvon Mau Grands Crus",
     "description": "Création d’un site one-page WordPress sous Divi pour Yvon Mau Grands Crus (groupe Freixenet). Objectif : refléter l’image haut de gamme de la marque à travers un design élégant et une navigation fluide.",
     "thumbnail": "projects/yvonmaugrandscrus.png",
@@ -189,7 +198,7 @@
     "date": "Juin 2024"
   },
   {
-    "id": "22",
+    "id": "23",
     "title": "Alegriaperou",
     "description": "J'ai conçu Alegriaperou, un site vitrine WordPress pour une association humanitaire pour les enfants du Pérou",
     "thumbnail": "projects/alegria.png",

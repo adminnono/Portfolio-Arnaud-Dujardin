@@ -147,7 +147,7 @@
     "id": "18",
     "title": "React Crypto Watch App",
     "description": "Projet d'affichage de crypto-monnaie avec une API et favoris grâce au localStorage",
-    "thumbnail": "projects/movie.png",
+    "thumbnail": "projects/cryptowatch.png",
     "github": "https://github.com/adminnono/react-crypto-watch",
     "deployed": "https://react-crypto-watch.vercel.app/",
     "date": "Août & Septembre 2024"

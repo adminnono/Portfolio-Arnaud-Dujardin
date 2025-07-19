@@ -1,5 +1,13 @@
 [
   {
+    "id": "2",
+    "title": "Parcours Complet : Mastering Front-End FromScratch",
+    "company": "FromScratch",
+    "description": "J'ai suivi le Mastering Front-end de FromScratch qui m'a permis d'avoir un socle solide Javascript & React Front-end ",
+    "timePeriod": "Juillet 2025",
+    "img": "images/web.webp"
+  },
+  {
     "id": "3",
     "title": "Diplôme de niveau 5 en développement Web",
     "company": "OpenClassrooms Paris",

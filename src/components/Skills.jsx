@@ -1,10 +1,12 @@
 import { useTrail, animated } from "react-spring";
 import { FaHtml5, FaCss3Alt, FaReact } from "react-icons/fa";
-import { SiJavascript, SiVisualstudiocode, SiFigma } from "react-icons/si";
+import { SiJavascript, SiVisualstudiocode } from "react-icons/si";
 import { DiGithubBadge } from "react-icons/di";
 import { SiNotion } from "react-icons/si";
 import { SiGit } from "react-icons/si";
 import { SiBootstrap, SiSass } from "react-icons/si";
+import { SiRedux } from "react-icons/si";
+import { SiTypescript } from "react-icons/si";
 
 // Liste des compétences avec leurs icônes
 const skills = [
@@ -13,11 +15,12 @@ const skills = [
   { id: "sass", Component: SiSass, link: "/sass.pdf" },
   { id: "javascript", Component: SiJavascript, link: "/javascript.pdf" },
   { id: "react", Component: FaReact, link: "/react.pdf" },
+  { id: "typescript", Component: SiTypescript, link: "/typescript.pdf" },
+  { id: "redux", Component: SiRedux, link: "/redux.pdf" },
   { id: "vscode", Component: SiVisualstudiocode, link: "/vsc.pdf" },
   { id: "bootstrap", Component: SiBootstrap, link: "/bootstrap.pdf" },
   { id: "github", Component: DiGithubBadge, link: "/github.pdf" },
   { id: "git", Component: SiGit, link: "/github.pdf" },
-  { id: "figma", Component: SiFigma, link: "/figma.pdf" },
   { id: "notion", Component: SiNotion, link: "/notion.pdf" },
 ];
 

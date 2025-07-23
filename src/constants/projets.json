@@ -146,7 +146,7 @@
   {
     "id": "18",
     "title": "React Crypto Watch App",
-    "description": "Projet d'affichage de crypto-monnaie avec une API et favoris grâce au localStorage",
+    "description": "Projet d'affichage de crypto-monnaie avec API, les cryptos favories sont stockées dans le localStorage. J'utilise Redux et le store pour pour stocker de la data et rendre accessible à tous les composants de l'app. ",
     "thumbnail": "projects/cryptowatch.png",
     "github": "https://github.com/adminnono/react-crypto-watch",
     "deployed": "https://react-crypto-watch.vercel.app/",

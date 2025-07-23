@@ -129,7 +129,7 @@
     "id": "16",
     "title": "React Cooking App",
     "description": "Projet d'affichage de cartes de recettes avec recherche dynamique grâce au map, au slice et une API",
-    "thumbnail": "projects/meal.png",
+    "thumbnail": "projects/cook.png",
     "github": "https://github.com/adminnono/meal-react-app",
     "deployed": "https://meal-react-app-zeta.vercel.app/",
     "date": "Août & Septembre 2024"
@@ -138,7 +138,7 @@
     "id": "17",
     "title": "React Movies App",
     "description": "Projet d'affichage de cartes de films avec recherche dynamique grâce au map, au slice et une API. Ajout de films coups de coeur grâce au localStorage",
-    "thumbnail": "projects/movie.png",
+    "thumbnail": "projects/movieapp.png",
     "github": "https://github.com/adminnono/react-movie-app",
     "deployed": "https://react-movie-app-kappa-ten.vercel.app/",
     "date": "Août & Septembre 2024"
@@ -147,7 +147,7 @@
     "id": "18",
     "title": "React Crypto Watch App",
     "description": "Projet d'affichage de crypto-monnaie avec API, les cryptos favories sont stockées dans le localStorage. J'utilise Redux et le store pour pour stocker de la data et rendre accessible à tous les composants de l'app. ",
-    "thumbnail": "projects/cryptowatch.png",
+    "thumbnail": "projects/crypto.png",
     "github": "https://github.com/adminnono/react-crypto-watch",
     "deployed": "https://react-crypto-watch.vercel.app/",
     "date": "Août & Septembre 2024"

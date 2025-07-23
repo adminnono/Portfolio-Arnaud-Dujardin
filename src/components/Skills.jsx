@@ -1,24 +1,10 @@
 import { useTrail, animated } from "react-spring";
 import { FaHtml5, FaCss3Alt, FaReact } from "react-icons/fa";
-import {
-  SiJavascript,
-  SiVisualstudiocode,
-  SiWordpress,
-  SiPhp,
-  SiFigma, // <- Ajout de Figma ici
-} from "react-icons/si";
+import { SiJavascript, SiVisualstudiocode, SiFigma } from "react-icons/si";
 import { DiGithubBadge } from "react-icons/di";
 import { SiNotion } from "react-icons/si";
-import { SiMysql } from "react-icons/si";
 import { SiGit } from "react-icons/si";
-import {
-  SiBootstrap,
-  SiSass,
-  SiVite,
-  SiJquery,
-  SiGutenberg,
-} from "react-icons/si";
-import { SiWoocommerce, SiElementor } from "react-icons/si";
+import { SiBootstrap, SiSass } from "react-icons/si";
 
 // Liste des compétences avec leurs icônes
 const skills = [
@@ -33,11 +19,6 @@ const skills = [
   { id: "git", Component: SiGit, link: "/github.pdf" },
   { id: "figma", Component: SiFigma, link: "/figma.pdf" },
   { id: "notion", Component: SiNotion, link: "/notion.pdf" },
-  { id: "wordpress", Component: SiWordpress, link: "/Wordpress.pdf" },
-  { id: "elementor", Component: SiElementor, link: "/elementor.pdf" },
-  { id: "gutenberg", Component: SiGutenberg, link: "/gutenberg.pdf" },
-  { id: "php", Component: SiPhp, color: "#8993BE", link: "/Php.pdf" },
-  { id: "mysql", Component: SiMysql, link: "/Php.pdf" },
 ];
 
 {

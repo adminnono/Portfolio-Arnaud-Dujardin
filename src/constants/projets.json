@@ -109,7 +109,7 @@
   },
   {
     "id": "14",
-    "title": "Coutries React App",
+    "title": "Countries React App",
     "description": "Il s'agit d'un projet React sur les manipulations de date. En fonction, cela calcule le coût total du séjour",
     "thumbnail": "projects/world.png",
     "deployed": "https://countries-react-two.vercel.app/",

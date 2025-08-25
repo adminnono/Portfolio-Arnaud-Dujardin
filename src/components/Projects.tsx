@@ -24,7 +24,7 @@ const Projects: React.FC = () => {
     },
     {
       id: 2,
-      title: "Recettes de cuisine",
+      title: "Cuisin’&Co",
       description:
         "Application pour chercher et cuisiner une recette de cuisine",
       image: "/images/recette.gif",
@@ -35,7 +35,7 @@ const Projects: React.FC = () => {
     },
     {
       id: 3,
-      title: "Recherche de films",
+      title: "CinéMatch",
       description:
         "Application Web pour trouver un film et l'ajouter à sa liste des coups de coeur",
       image: "/images/film.gif",

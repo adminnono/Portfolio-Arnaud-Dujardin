@@ -64,6 +64,17 @@ const Projects: React.FC = () => {
     },
     {
       id: 5,
+      title: "PaysExpress",
+      description:
+        "Application qui permet de se renseigner sur les pays du monde",
+      image: "/images/pays.gif",
+      technologies: ["React", "TypeScript", "Tailwind", "Vercel", "API"],
+      category: "frontend",
+      github: "https://github.com/adminnono/pays-express",
+      demo: "https://pays-express.vercel.app",
+    },
+    {
+      id: 6,
       title: "Todo List",
       description:
         "Application de Todo List qui permet de gérer ses tâches en fonction de leur importance (Urgente, Moyenne, Basse) et de les enregistrer côté navigateur grâce au LocalStorage",

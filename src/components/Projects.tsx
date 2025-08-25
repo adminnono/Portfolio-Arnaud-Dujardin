@@ -66,7 +66,7 @@ const Projects: React.FC = () => {
       id: 5,
       title: "Todo List",
       description:
-        "Application de Todo List qui permet de gérer ses tâches en focntion de leur importance avec la possiblité d'ajouter et de supprimer des tâches.",
+        "Application de Todo List qui permet de gérer ses tâches en fonction de leur importance (Urgente, Moyenne, Basse) et de les enregistrer côté navigateur grâce au LocalStorage",
       image: "/images/to-do.gif",
       technologies: [
         "React",
@@ -75,6 +75,7 @@ const Projects: React.FC = () => {
         "Vercel",
         "DaisyUI",
         "Lucide-React",
+        "LocalStorage",
       ],
       category: "frontend",
       github: "https://github.com/adminnono/Todo-List",
